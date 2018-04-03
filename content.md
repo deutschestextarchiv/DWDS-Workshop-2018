@@ -37,7 +37,7 @@ class: title-slide
     + Linguistik: Beschäftigung mit **sprachübergreifenden** Phänomenen
         * Ebenen: *Phonologie*, *Morphologie*, *Syntax*, *Semantik* etc.
         * Anwendungsfelder: *Sprachverarbeitung*, *Spracherwerb*, *Sprachstörungen* etc.
-- *Ferdinand de Saussure* (1857&ndash;1913)
+- <span style="font-variant:small-caps;">Ferdinand de Saussure</span> (1857&ndash;1913)
     + Begründer des **sprachwissenschaftlichen Strukturalismus**
         * *Langage*: das (biologische) Sprachvermögen
         * *Langue*: Sprache als ein abstraktes System von Regeln
@@ -54,14 +54,14 @@ class: title-slide
     + *Computational Linguistics* (CL, etwa berechenbare, rechenbetonte Sprachwissenschaft)
         * theoretische Beschreibungen der formalen Grundlagen von Sprache
         * Berechenbarkeit, Beweisbarkeit, Modellierung
-- *Noam Chomsky* (&#x2A;1928)
+- <span style="font-variant:small-caps;">Noam Chomsky</span> (&#x2A;1928)
     + Begründer der **generativen Linguistik**
         * *Universalgrammatik*: alle Sprachen folgen gemeinsamen, angeborenen Prinzipien
         * *Tiefen- vs. Oberflächenstruktur*: unterschiedliche Realisierungen gleicher Bedeutungen basieren auf einer gemeinsamen abstrakten Struktur
 
 ---
 
-# Das digitale Wörterbuch der deutschen Sprache
+# Das DWDS
 
 - Institution: Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)
 - Langzeitvorhaben
@@ -84,7 +84,7 @@ http://zwei.dwds.de/wb/Leiter
     + Eck- (Substantive), Stamm- (Verben )und Komparationsformen (Adjektive)
     + Aussprache
     + Worttrennung (Zeilenende)
-    + Wortbildung
+    + Wortzerlegung, -bildung
 - teils manuell, teils automatisch erhoben
 
 ---
@@ -107,6 +107,23 @@ http://zwei.dwds.de/wb/Leiter
       Grünspan ↦ grün<A>#Span<N>
       verirren ↦ ver<p>+irren<V>
       ```
+
+---
+
+# NLP: morphologische Analyse
+
+- Rezept: `Finite State Morphology`:
+    + Man nehme
+        * eine **große** Liste einfacher Wörter
+        * deren **morphosyntaktische** Eigenschaften
+        * Vor- und Nachsilben,
+    + packe dies in einen **endlichen Automaten** und
+    + bilde dessen **kleenesche Hülle**
+- <span style="font-variant:small-caps;">Stephen Cole Kleene</span> (1909&ndash;1994)
+    + Mitbegründer der theoretischen Informatik
+        * formale Sprachen
+        * **reguläre Ausdrücke**
+
 
 ---
 
