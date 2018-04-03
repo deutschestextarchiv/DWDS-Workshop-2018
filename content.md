@@ -29,18 +29,18 @@ class: title-slide
 ## Was ist Computerlinguistik?
 
 - Teildisziplin der **Sprachwissenschaft**
-  + Philologie: Beschäftigung mit den sprachlichen Zeugnissen **einer** Sprache/Sprachfamilie
-    * *Germanistik*, *Anglistik*, *Romanistik* etc.
-  + Linguistik: Beschäftigung mit **sprachübergreifenden** Phänomenen
-    * Ebenen: *Phonologie*, *Morphologie*, *Syntax*, *Semantik* etc.
-    * Anwendungsfelder: *Sprachverarbeitung*, *Spracherwerb*, *Sprachstörungen* etc.
+    + Philologie: Beschäftigung mit den sprachlichen Zeugnissen **einer** Sprache/Sprachfamilie
+        * *Germanistik*, *Anglistik*, *Romanistik* etc.
+    + Linguistik: Beschäftigung mit **sprachübergreifenden** Phänomenen
+        * Ebenen: *Phonologie*, *Morphologie*, *Syntax*, *Semantik* etc.
+        * Anwendungsfelder: *Sprachverarbeitung*, *Spracherwerb*, *Sprachstörungen* etc.
 - Zwei **Teildisziplinen**
-  + *Natural Language Processing* (NLP, etwa Linguistische Datenverarbeitung)
-    * Verfahren zur automatischen **Analyse** und **Generierung** von Sprache auf allen Ebenen
-    * wichtiger Bestandteil unseres medialen Umfelds
-  + *Computational Linguistics* (CL, etwa berechenbare, rechenbetonte Sprachwissenschaft)
-    * theoretische Beschreibungen der formalen Grundlagen von Sprache
-    * Berechenbarkeit, Beweisbarkeit, Modellierung
+    + *Natural Language Processing* (NLP, etwa Linguistische Datenverarbeitung)
+        * Verfahren zur automatischen **Analyse** und **Generierung** von Sprache auf allen Ebenen
+        * wichtiger Bestandteil unseres medialen Umfelds
+    + *Computational Linguistics* (CL, etwa berechenbare, rechenbetonte Sprachwissenschaft)
+        * theoretische Beschreibungen der formalen Grundlagen von Sprache
+        * Berechenbarkeit, Beweisbarkeit, Modellierung
 
 ---
 
@@ -72,10 +72,10 @@ class: title-slide
 ## Demo
 
 - Typische Verbindungen:
-  - Korpora: Annotation, Quellen
-  - syntaktische Analyse
-  - Kollokationen
-  - distributionelle Semantik (Profilardy)
+    - Korpora: Annotation, Quellen
+    - syntaktische Analyse
+    - Kollokationen
+    - distributionelle Semantik (Profilardy)
 - Verwendungsbeispiele
 - Wortverlaufskurven
 
