@@ -79,3 +79,10 @@ class: title-slide
 # Formteil
 
 http://zwei.dwds.de/wb/Leiter
+
+---
+
+# Wortverlaufskurven
+## Flugzeug vs. Eisenbahn
+
+![Flugzeug vs. Eisenbahn](flugzeug_vs_eisenbahn.svg)
