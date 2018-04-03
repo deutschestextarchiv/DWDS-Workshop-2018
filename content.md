@@ -34,6 +34,17 @@ class: title-slide
     + Linguistik: Beschäftigung mit **sprachübergreifenden** Phänomenen
         * Ebenen: *Phonologie*, *Morphologie*, *Syntax*, *Semantik* etc.
         * Anwendungsfelder: *Sprachverarbeitung*, *Spracherwerb*, *Sprachstörungen* etc.
+- *Ferdinand de Saussure* (1857 - 1913)
+    + Begründer des **sprachwissenschaftlichen Strukturalismus**
+        * *Langage*:  das (biologische) Sprachvermögen
+        * *Langue*: Sprache als ein abstraktes System von Regeln
+        * *parole*: Sprechen, konkete Sprachverwendung
+
+---
+# Überblick
+
+## Was ist Computerlinguistik?
+
 - Zwei **Teildisziplinen**
     + *Natural Language Processing* (NLP, etwa Linguistische Datenverarbeitung)
         * Verfahren zur automatischen **Analyse** und **Generierung** von Sprache auf allen Ebenen
