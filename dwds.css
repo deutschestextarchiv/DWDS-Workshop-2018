@@ -1,12 +1,11 @@
-* { font-family:Arial,sans-serif }
+* { font-family:'Istok Web',Arial,sans-serif }
 
-h1 { text-align:center; margin-top:90px }
-h2 { margin-top:0 }
-h1,h2 { color:#c60c30 }
+.remark-slide-content h1 { font-size:3rem; margin-top:0; color:#c60c30 }
+.remark-slide-content h2 { font-size:2.5rem }
 
 a { color:#009; text-decoration:none }
 
-li { line-height:1.5em; font-size:1.5em }
+li { line-height:1.5em; font-size:2rem }
 
 table { margin:auto; width:100% }
 
@@ -14,10 +13,9 @@ table { margin:auto; width:100% }
 
 .remark-slide-number { bottom:25px; right:15px; font-size:9pt }
 
-.title-slide h2 { text-align:center; margin-top:0; margin-bottom:100px }
-.title-slide .remark-slide-number {
-  display: none;
-}
+.title-slide h1 { text-align:center; margin-top:100px }
+.title-slide h2 { font-size:3rem; color:#c60c30; text-align:center; margin-top:30px }
+.title-slide .remark-slide-number { display:none }
 
 .my-header {
   background-image:url("bbaw.svg");
@@ -46,4 +44,5 @@ table { margin:auto; width:100% }
   color: #fff;
   padding:1px 10px;
 }
+
 .my-footer a { color:#fff; text-decoration:none }

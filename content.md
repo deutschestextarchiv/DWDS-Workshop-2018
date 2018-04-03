@@ -15,7 +15,7 @@ layout: true
 
 class: title-slide
 
-# DWDS &ndash; Digitales Wörterbuch der deutschen Sprache
+# DWDS &ndash; Digitales Wörterbuch der deutschen Sprache  
 ## Mittels Computerlinguistik zum Wörterbuch der Zukunft
 
 | Frank Wiegand   | Kay-Michael Würzner |
@@ -24,12 +24,56 @@ class: title-slide
 
 ---
 
-## Überblick
+# Überblick
 
-- eine kurze Geschichte der Sprachwissenschaft
-- das digitale Wörterbuch der deutschen Sprache
-- Morphologie: von der Gestalt der Wörter
-- Phonologie: Silbenstruktur und Aussprache
-- Syntax: die Struktur der Sätze
-- Semantik: die Lehre von der Bedeutung
-- Let's play `DWDS`
+## Was ist Computerlinguistik?
+
+- Sprachwissenschaft vs. Philologie
+- NLP vs. CL
+
+---
+
+# Überblick
+
+## Das digitale Wörterbuch der deutschen Sprache
+
+- Was ist das DWDS?
+  - Projekt: Akademie, Langzeit, Steuerzahler
+  - Plattform: WB, Korpora, Tools
+
+---
+
+# Überblick
+
+## Demo
+
+- Formteil: Morphologie, Silbenstruktur, Aussprache (Automat)
+- Bedeutungen: Handarbeit, Lesarten, Belege, Kollokationen
+- Etymologie (HA)
+- Thesaurus (HA)
+
+---
+
+# Überblick
+
+## Demo
+
+- Typische Verbindungen:
+  - Korpora: Annotation, Quellen
+  - syntaktische Analyse
+  - Kollokationen
+  - distributionelle Semantik (Profilardy)
+- Verwendungsbeispiele
+- Wortverlaufskurven
+
+---
+
+# Überblick
+
+## Aufgabenteil
+
+---
+
+# Formteil
+
+http://zwei.dwds.de/wb/Leiter
