@@ -37,9 +37,11 @@ class: title-slide
 
 ## Das digitale Wörterbuch der deutschen Sprache
 
-- Was ist das DWDS?
-  - Projekt: Akademie, Langzeit, Steuerzahler
-  - Plattform: WB, Korpora, Tools
+- Institution: Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)
+- Langzeitvorhaben
+- ca. 15 Mitarbeiter/innen
+- (nur!) online: [https://www.dwds.de](https://www.dwds.de) (seit 2004)
+- Wörterbücher, Textsammlungen (Korpora), Tools
 
 ---
 
