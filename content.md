@@ -112,7 +112,7 @@ http://zwei.dwds.de/wb/Leiter
 
 # NLP: morphologische Analyse
 
-- Rezept: `Finite State Morphology`:
+- Rezept `Finite State Morphology`:
     + Man nehme
         * eine **große** Liste einfacher Wörter
         * deren **morphosyntaktische** Eigenschaften
@@ -124,6 +124,83 @@ http://zwei.dwds.de/wb/Leiter
         * formale Sprachen
         * **reguläre Ausdrücke**
 
+---
+
+# NLP: morphologische Analyse
+
+- Illustration
+    + Lexikon `{schön<A>,Geist<N>}`
+    + Vorsilben `{un<p>,ur<p>}`
+    + Nachsilben `{heit<N>,lich<A>}`
+
+---
+
+# NLP: morphologische Analyse
+
+- Zahlen
+    + *n* Lexikoneinträge
+    + *x* Vorsilben
+    + *y* Nachsilben
+    + *z* Regeln
+    + *i* Zustände
+- klassischer **regelbasierter** Ansatz,
+    + manuell gepflegte **Daten** als Operanden und
+    + manuell erstellte **Regeln** zu deren Kombination
+- Grundlage bzw. Bestandteil der meisten Sprachverarbeitungssysteme
+
+http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4n&from=wb
+http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&from=wb
+
+---
+
+# NLP: Worttrennung
+
+- Aufgabe
+    + Bestimmung aller möglichen Stellen für die Worttrennung **am Zeilenende**
+      ```
+      Elektrik ↦ Elek·t·rik ↦ {Elek-trik,Elekt-rik}
+      ```
+    + nicht zu verwechseln mit **Silbentrennung**
+      ```
+      Elektrik ↦ E·lek·trik ↦ {E-lek-trik}
+      ```
+    + Herausforderung durch **Lehnwörter**
+      ```
+      Ale ↦ Ale ↦ {Ale}
+      ```
+
+---
+
+# NLP: Worttrennung
+
+- Rezept `Sequenzklassifizierung`
+    + Man nehme
+        * eine **sehr große** Liste **manuell annotierter** Daten und
+        * einen **Trainingsalgorithmus**,
+    + induziere ein **statistisches Modell**,
+    + und evaluiere dessen Qualität anhand von **Evaluationsdaten**
+- <span style="font-variant:small-caps;">Andrei Andrejewitsch Markow</span> (1856&ndash;1922)
+    + wesentliche Beiträge zur **Wahrscheinlichkeitstheorie**
+    + arbeitete früh (1913) mit Häufigkeitsanalysen in Textsammlungen
+    + formulierten die Grundlagen sog. *Hidden Markov Models*
+
+---
+
+# NLP: Wortrennung
+
+- Illustration
+
+---
+
+# NLP: Wortrennung
+
+- Evaluation
+    * ...
+- klassischer **statistischer Ansatz**,
+    + manuell gepflegte **Daten** als Operanden und
+    + **Induktionsverfahren** zu deren Modellierung
+- Grundlage heute omnipräsenter Verfahren des *Deep Learning*
+- Einsatz in allen Domänen der Sprachverarbeitung
 
 ---
 
