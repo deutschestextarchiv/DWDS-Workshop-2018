@@ -34,11 +34,11 @@ class: title-slide
     + Linguistik: Beschäftigung mit **sprachübergreifenden** Phänomenen
         * Ebenen: *Phonologie*, *Morphologie*, *Syntax*, *Semantik* etc.
         * Anwendungsfelder: *Sprachverarbeitung*, *Spracherwerb*, *Sprachstörungen* etc.
-- *Ferdinand de Saussure* (1857 - 1913)
+- *Ferdinand de Saussure* (1857&ndash;1913)
     + Begründer des **sprachwissenschaftlichen Strukturalismus**
-        * *Langage*:  das (biologische) Sprachvermögen
+        * *Langage*: das (biologische) Sprachvermögen
         * *Langue*: Sprache als ein abstraktes System von Regeln
-        * *parole*: Sprechen, konkete Sprachverwendung
+        * *Parole*: Sprechen, konkete Sprachverwendung
 
 ---
 # Überblick
@@ -52,6 +52,10 @@ class: title-slide
     + *Computational Linguistics* (CL, etwa berechenbare, rechenbetonte Sprachwissenschaft)
         * theoretische Beschreibungen der formalen Grundlagen von Sprache
         * Berechenbarkeit, Beweisbarkeit, Modellierung
+- *Noam Chomsky* (&#x2A;1928)
+    + Begründer der **generativen Linguistik**
+        * *Universalgrammatik*: alle Sprachen folgen gemeinsamen, angeborenen Prinzipien
+        * *Tiefen- vs. Oberflächenstruktur*: unterschiedliche Realisierungen gleicher Bedeutungen basieren auf einer gemeinsamen abstrakten Struktur
 
 ---
 
