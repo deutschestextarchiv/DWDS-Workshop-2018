@@ -26,7 +26,10 @@ class: title-slide
 
 # Überblick
 
-## Was ist Computerlinguistik?
+
+---
+
+# Was ist Computerlinguistik?
 
 - Teildisziplin der **Sprachwissenschaft**
     + Philologie: Beschäftigung mit den sprachlichen Zeugnissen **einer** Sprache/Sprachfamilie
@@ -41,9 +44,8 @@ class: title-slide
         * *Parole*: Sprechen, konkete Sprachverwendung
 
 ---
-# Überblick
 
-## Was ist Computerlinguistik?
+# Was ist Computerlinguistik?
 
 - Zwei **Teildisziplinen**
     + *Natural Language Processing* (NLP, etwa Linguistische Datenverarbeitung)
@@ -59,9 +61,7 @@ class: title-slide
 
 ---
 
-# Überblick
-
-## Das digitale Wörterbuch der deutschen Sprache
+# Das digitale Wörterbuch der deutschen Sprache
 
 - Institution: Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)
 - Langzeitvorhaben
@@ -71,11 +71,45 @@ class: title-slide
 
 ---
 
-# Überblick
+# Vogelperspektive
 
-## Demo
+---
 
-- Formteil: Morphologie, Silbenstruktur, Aussprache (Automat)
+# DWDS: Formteil
+
+http://zwei.dwds.de/wb/Leiter
+
+- Zusammenfassung der **formalen Eigenschaften** eines Wortes:
+    + Wortart
+    + Eck- (Substantive), Stamm- (Verben )und Komparationsformen (Adjektive)
+    + Aussprache
+    + Worttrennung (Zeilenende)
+    + Wortbildung
+- teils manuell, teils automatisch erhoben
+
+---
+
+# NLP: morphologische Analyse
+
+- Aufgabe
+    + Bestimmung der **möglichen** Wortarten eines Wortes
+      ```
+      grünen ↦ {Verb, Adjektiv}
+      Kai    ↦ {Substantiv, Eigenname}
+      ```
+    + Abbildung auf eine kanonische **Grundform**
+      ```
+      grünen ↦ grün
+      Kais   ↦ Kai
+      ```
+    + Identifikation der beteiligten Wortbildungsprozesse
+      ```
+      Grünspan ↦ grün<A>#Span<N>
+      verirren ↦ ver<p>+irren<V>
+      ```
+
+---
+
 - Bedeutungen: Handarbeit, Lesarten, Belege, Kollokationen
 - Etymologie (HA)
 - Thesaurus (HA)
@@ -103,8 +137,6 @@ class: title-slide
 ---
 
 # Formteil
-
-http://zwei.dwds.de/wb/Leiter
 
 ---
 
