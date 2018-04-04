@@ -94,6 +94,11 @@ http://zwei.dwds.de/wb/Leiter
 ---
 
 # Wortverlaufskurven
-## Flugzeug vs. Eisenbahn
 
 ![Flugzeug vs. Eisenbahn](flugzeug_vs_eisenbahn.svg)
+
+---
+
+# Wortverlaufskurven
+
+![(Bundes)Kanzler vs. (Bundes)Kanzlerin](kanzler_vs_kanzlerin.svg)
