@@ -1,19 +1,27 @@
 * { font-family:'Istok Web',Arial,sans-serif }
 
-.remark-slide-content h1 { font-size:3rem; margin-top:0; color:#c60c30 }
-.remark-slide-content h2 { font-size:2.5rem }
 
 a { color:#009; text-decoration:none }
 
+code, code * { font-family:monospace; font-size:1.3rem; background:#f6f8fa }
+
+img { width:90% }
+
 li { line-height:1.5em; font-size:2rem }
-ul > li > ul > li { font-size:1.5rem }
-ul > li > ul > li > ul > li { font-size:1.2rem }
+
+pre { margin:0; padding:.5em; background:#f6f8fa }
 
 table { margin:auto; width:100% }
 
+ul > li > ul > li { font-size:1.5rem }
+
+ul > li > ul > li > ul > li { font-size:1.2rem }
+
+.remark-slide-content h1 { font-size:3rem; margin-top:0; color:#c60c30 }
+.remark-slide-content h2 { font-size:2.5rem }
 .remark-slide-content { padding:1em 1em }
 
-img { width:90% }
+.remark-code-line { line-height:1.3em }
 
 .remark-slide-number { bottom:25px; right:15px; font-size:9pt }
 

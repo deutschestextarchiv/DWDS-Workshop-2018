@@ -81,7 +81,7 @@ http://zwei.dwds.de/wb/Leiter
 
 - Zusammenfassung der **formalen Eigenschaften** eines Wortes:
     + Wortart
-    + Eck- (Substantive), Stamm- (Verben )und Komparationsformen (Adjektive)
+    + Eck- (Substantive), Stamm- (Verben) und Komparationsformen (Adjektive)
     + Aussprache
     + Worttrennung (Zeilenende)
     + Wortzerlegung, -bildung
