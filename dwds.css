@@ -3,9 +3,11 @@
 
 a { color:#009; text-decoration:none }
 
+blockquote { padding:0 1em; color:#6a737d; border-left:0.25em solid #dfe2e5 }
+
 code, code * { font-family:monospace; font-size:1.3rem; background:#f6f8fa }
 
-img { width:90% }
+img { max-width:90% }
 
 li { line-height:1.5em; font-size:2rem }
 
@@ -16,6 +18,9 @@ table { margin:auto; width:100% }
 ul > li > ul > li { font-size:1.5rem }
 
 ul > li > ul > li > ul > li { font-size:1.2rem }
+
+.diasys { color:#595; font-weight:bold }
+.smaller { font-size:1.2em }
 
 .remark-slide-content h1 { font-size:3rem; margin-top:0; color:#c60c30 }
 .remark-slide-content h2 { font-size:2.5rem }

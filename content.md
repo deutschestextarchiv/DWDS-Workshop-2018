@@ -66,8 +66,17 @@ class: title-slide
 - Institution: Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)
 - Langzeitvorhaben
 - ca. 15 Mitarbeiter/innen
-- (nur!) online: [https://www.dwds.de](https://www.dwds.de) (seit 2004)
 - Wörterbücher, Textsammlungen (Korpora), Tools
+- ca. 465 000 Wörterbucheinträge
+- ca. 13 Milliarden Textbelege aus über vier Jahrhunderten
+
+
+- (nur!) online: [https://www.dwds.de](https://www.dwds.de) (seit 2004)
+
+---
+
+# Das DWDS
+![DWDS-Webseite](dwds.png)
 
 ---
 
@@ -204,9 +213,176 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
 
 ---
 
-- Bedeutungen: Handarbeit, Lesarten, Belege, Kollokationen
-- Etymologie (HA)
-- Thesaurus (HA)
+# Lexikografische Arbeit
+
+> In keiner Sprache kann man sich so schwer verständigen wie in der Sprache.  
+*(Karl Kraus, österr. Schriftsteller, 1874&ndash;1936)*
+
++ (oft mühevolle) Handarbeit
++ viel Recherche:
+    - in anderen Wörterbüchern
+    - in Bibliotheken
+    - im Internet
+    - in Textsammlungen
+    - ...
++ Teamsitzungen zur Absprache und Nachfrage
+
+---
+
+# Lexikografische Arbeit
+
+![¹DWB](http://dwb.bbaw.de/band1.jpg)
+
+---
+
+# Lexikografische Arbeit
+
+![lexikografischer Arbeitsplatz](http://dwb.bbaw.de/arbeitsstelle/archiv/archiv1-m.jpg)
+
+---
+
+# Lexikografische Arbeit
+
++ Wortschatz der deutschen Sprache im Auge behalten
++ das eigene Wörterbuch kennen
+
+
++ neue Wörterbuchartikel schreiben: **Brexit**, **posten**
++ bestehende Artikel ergänzen:
+    - neue Bedeutungen: **Maus**, **Ampel**
+    - Anpassung an gesellschaftlichen Wandel: **Ehe**, **Eskimo**, **Gutmensch**
+    - Artikel erweitern (weil bislang nur minimal)
++ bestehende Artikel überarbeiten:
+    - Bedeutungswandel: **klicken**
+    - Rechtschreibreform: ~~Ketschup~~, **Co-Trainer**
+
+---
+
+# Formangaben
+
++ Wortart (Substantiv, Verb, Adjektiv, ...)
++ Schreibungen
+    * alles zulässig: **Delfin**, **Delphin**
+    * neue Rechtschreibung: **Ablass**, ~~Ablaß~~
+    * war schon immer falsch: **E-Mail**, ~~Email~~
++ weitere Informationen
+    * **die** E-Mail, **das** E-Mail
+.diasys[süddeutsch, österreichisch, schweizerisch]
+    * **das** Virus, **der** Virus
+.diasys[umgangssprachlich]
+    * **Ferien**
+.diasys[wird nur im Plural verwendet]
+
+
+---
+
+# Homographe
+
+- gleich geschriebene Wörter
+- verschieden nach: Herkunft, Formen, Genus, Aussprache, Zusammensetzung
+- Beispiele:
+    + **Bug**: Vorderteil eines Schiffes, (Software)Fehler
+    + **Band**: Pl. Bänder/Bande, Bände, Bands
+    + **Band**: Pl. Bänke, Banken
+    + **sein**: Pronomen, Verb
+    + **Dichtung**: von *dicht*, von *(er)dichten*
+    + **Hut**: der, die
+    + **Wachstube**: *Wach* + *Stube*, *Wachs* + *Tube*
+
+---
+
+# Lesarten
+
+- (Unter)Bedeutungen eines Wortes:
+    + **scharf**: schneidend, spitz, stark reizend, genau, deutlich, streng, ...
+    + **Läufer**: jmd. der läuft, Teppich, Schachfigur, ...
+    + **Birne**: Frucht, Baum, Glühlampe, Kopf
+- Markierungen:
+    + 
+.diasys[bildlich] den Teufel an die Wand **malen**
+    + 
+.diasys[salopp, abwertend] jmdn. nicht **riechen** können
+    + 
+.diasys[vertraulich] altes **Haus**!
+    + 
+.diasys[gehoben, veraltend] jemanden einer Tat **zeihen** *(= bezichtigen)*
+    + 
+.diasys[Medizin] **Exazerbation:** Verschlimmerung, zeitweise Steigerung, Wiederaufleben einer Krankheit
+    + 
+.diasys[Schülersprache, landschaftlich] **Giftzettel:** Schulzeugnis
+
+---
+
+# Lesarten
+
+- (konstruierte) Beispiele:
+    + die allgemeinbildende, berufsbildende, zehnklassige **Schule**
+- Belege aus Textsammlungen:
+    + „Urlaub in der eigenen Stadt ist nicht traurig, sondern **trendy**, und das schon seit einer ganzen Weile.“ *[Welt am Sonntag, 25.09.2016, Nr. 39]*
+- Konstruktionsmuster:
+    + etwas **gilt**
+    + etwas **gelten** lassen
+    + etwas **geltend** machen
+    + es **gilt** etwas (zu tun)
+- Kollokationen:
+    + *mit Akkusativobjekt:* **Drogen** beschlagnahmen, sicherstellen
+    + *mit vergleichender Wortgruppe:* **Drogen** wie Kokain, Ecstasy, Heroin
+
+---
+
+# Etymologie
+
+- altgriechisch: *ἐτυμολογία (etymología)*
+    + *ἔτυμος (étymos):* „wahr, echt, wirklich“
+    + *λόγος (lógos):* „Wort“
+- Wissenschaft von der Entstehung und geschichtlichen Veränderung einzelner Wörter 
+- im DWDS mit ca. 25 000 Einträgen:
+    + Wolfgang Pfeiffer (&#x2A;1922) &ndash; *Etymologisches Wörterbuch des Deutschen*
+
+---
+
+# Etymologie &ndash; Beispiele
+
+.smaller[**Fake News:** Übernahme von gleichbedeutend *fake news* (amerik.-engl.)]
+
+.smaller[**Eskimo:** Genaue Herkunft unsicher; wohl über **eskimoda**<sub>en</sub> oder **esquimau**<sub>frz</sub> aus einer indigenen nordostamerikanischen Algonkin-Sprache (Innu-aimun bzw. Montagnais), vermutlich mit einer ursprünglichen Bedeutung ‘Schneeschuh-Knüpfer’. Eine zunächst angenommene ursprüngliche Bedeutung ‘Esser von rohem Fleisch’ gilt als widerlegt, war aber der Grund, die Bezeichnung **Eskimo** als abwertend einzuschätzen.]
+
+.smaller[**Maulwurf:** Der Name hat mehrfach volksetymologische Umdeutungen erfahren. Die älteste Bezeugung ahd. (8. Jh.), mhd. *mūwerf*, ahd. *mūwerfo* (11. Jh.) enthält in ihrem ersten Glied ein zu aengl. *mūga*, *mūha*, *mūwa* ‘Kornhaufen’, engl. *mow* ‘Heu-, Kornhaufen’, anord. *mūgi*, *mūgr* ‘Menge, Haufen’, mhd. *mocke* ‘Klumpen, Brocken’ gehörendes Substantiv, das vielleicht mit griech. *mýkōn* (*μύκων*) ‘(Korn)haufen’ verwandt ist ...]
+
+---
+
+# Thesaurus
+
+- altgriechisch:
+  + *θησαυρός (thesaurós)* → „Schatz, Schatzhaus“
+  + später lateinisch *thesaurus* → *Tresor*
+- Wortnetz: listet systematisch Wörter
+    + gleichbedeutend, ähnlich (Synonyme)
+    + Oberbegriffe (Hyperonyme)
+    + Unterbegriffe (Hyponyme)
+    + thematisch verwandt (Assoziationen)
+    + Gegenwörter (Antonyme)
+- im DWDS:
+    + [OpenThesaurus](http://www.openthesaurus.de) mit ca. 160 000 Einträgen
+    + GermaNet
+
+---
+
+# Thesaurus
+
+- Synonyme:
+    * **Kreuz:**
+        + Bürde, Crux, Fron, Joch, Knechtschaft, Krux, Last, Plage
+        + Autobahnknoten
+        + Rücken, Rückgrat, Wirbelsäule
+- Oberbegriffe (Hyperonyme):
+    + **Tomate:** Fruchtgemüse, essbare Pflanzen(teile), Grünzeug
+- Unterbegriffe (Hyponyme):
+    + **Fahrzeug:** Bahn, Bus, Zug
+- Assoziationen:
+    + **Apfel:** Birne, Apfelsaft
+- Gegenworte (Antonyme):
+    + **Ernst:** Spaß
 
 ---
 
