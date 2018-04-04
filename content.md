@@ -283,7 +283,7 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
 - Beispiele:
     + **Bug**: Vorderteil eines Schiffes, (Software)Fehler
     + **Band**: Pl. Bänder/Bande, Bände, Bands
-    + **Band**: Pl. Bänke, Banken
+    + **Bank**: Pl. Bänke, Banken
     + **sein**: Pronomen, Verb
     + **Dichtung**: von *dicht*, von *(er)dichten*
     + **Hut**: der, die
