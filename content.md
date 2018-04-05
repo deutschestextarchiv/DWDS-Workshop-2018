@@ -393,11 +393,15 @@ E l e k t r i k
 
 - Evaluation
     * ...
-- klassischer **statistischer Ansatz**,
+- klassischer Ansatz des *Machine Learning*: **überwachtes Lernen**,
     + manuell gepflegte **Daten** als Operanden und
     + **Induktionsverfahren** zu deren Modellierung
-- Grundlage heute omnipräsenter Verfahren des *Deep Learning*
-- Einsatz in allen Domänen der Sprachverarbeitung
+- Grundlage heute omnipräsenter Verfahren des *Deep Learning* mit **tiefen neuronalen Netzen**
+- erfolgreicher Einsatz in allen Domänen der Sprachverarbeitung aber auch in anderen Bereichen
+    + personalisierte Werbung
+    + Kundenprofilierung
+    + ...
+- Motivation für Datensammelwut 
 
 ---
 
