@@ -273,7 +273,9 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
         * Wortrennungsangaben für > 250 000 deutsche Wörter
         * `Elektrik ↦ Elek·t·rik`
     + Kodierung `\(f: \Sigma\rightarrow\mathbb{B}\)`
-      $$f(x) = \begin{cases} 1 & x \text{gefolgt von Trennungsm\"{o}glichkeit} \\ 0 & \, \text{sonst}\end{cases}$$
+      
+      $$f(x) = \begin{cases} 1 & x\,\text{gefolgt von Trennstelle} \\\\
+                             0 & \, \text{sonst}\end{cases}$$
 
 ---
 
