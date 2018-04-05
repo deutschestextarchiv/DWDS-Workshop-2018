@@ -569,3 +569,10 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
 # Wortverlaufskurven
 
 .center[<img src="figures/kanzler_vs_kanzlerin.svg" style="width:800px"/>]
+
+---
+
+# Ausblick auf die Zukunft
+
+- Wörterbücher schreiben sich allein von selbst
+- aber vieles ist maschinell machbar
