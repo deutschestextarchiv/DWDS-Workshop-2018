@@ -469,14 +469,15 @@ $$
 
 # Etymologie &ndash; Aufgaben
 
-+ *Ampel*
-+ *Brille*
-+ *Hängematte*
-+ *heulen*
-+ *Krawatte*
-+ *Laune*
-+ *Muckefuck*
-+ *Teddy*
++ Bestimme die Herkunft eines der folgenden Wörter:
+    + *Ampel*
+    + *Brille*
+    + *Hängematte*
+    + *heulen*
+    + *Krawatte*
+    + *Laune*
+    + *Muckefuck*
+    + *Teddy*
 
 ---
 
@@ -533,13 +534,17 @@ $$
 
 # DWDS: Verwendungsbeispiele
 
++ früher: hunderte Zettelkästen mit Belegstellen
+
 .center[![lexikografischer Arbeitsplatz](http://dwb.bbaw.de/arbeitsstelle/archiv/archiv1-m.jpg)]
 
 ---
 
 # DWDS: Verwendungsbeispiele
 
-.center[.img-orig[![Stress](figures/roulade.png)]]
++ heute: automatisch ausgesucht
+
+.center[![Stress](figures/roulade.png)]
 
 ---
 
