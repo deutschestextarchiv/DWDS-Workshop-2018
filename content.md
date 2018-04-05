@@ -383,6 +383,9 @@ E l e k t r i k
 
 
     + Training
+        * Zählen der Sequenzen im Kontext
+        * Berechnung einer Wahrscheinlichkeitsverteilung
+        * Repräsentation als statistisches Modell (HMM, CRF, neuronales Netz)
 
 ---
 
