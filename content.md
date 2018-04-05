@@ -371,15 +371,17 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
     + Kodierung `\(f: \Sigma\rightarrow\mathbb{B}\)`
 
 
-        $$
-        f(x) = \begin{cases} 1 & x\,\text{gefolgt von Trennstelle} \\\\
-        0 & \, \text{sonst}\end{cases}
-        $$
+$$
+f(x) = \begin{cases} 1 & x\,\text{gefolgt von Trennstelle} \\\\
+0 & \, \text{sonst}\end{cases}
+$$
 
-        ```
-        E l e k t r i k
-        0 0 0 1 1 0 0 0
-        ```
+```
+E l e k t r i k
+0 0 0 1 1 0 0 0
+```
+
+    + Training
 
 ---
 
