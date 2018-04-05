@@ -201,12 +201,12 @@ count:false
     + Bestimmung der **möglichen** Wortarten eines Wortes
       ```
       grünen ↦ {Verb, Adjektiv}
-      Kai    ↦ {Substantiv, Eigenname}
+      Müller ↦ {Substantiv, Eigenname}
       ```
     + Abbildung auf eine kanonische **Grundform**
       ```
-      grünen ↦ grün
-      Kais   ↦ Kai
+      grünen  ↦ grün
+      Müllers ↦ Kai
       ```
     + Identifikation der beteiligten Wortbildungsprozesse
       ```
@@ -350,7 +350,7 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
     + Man nehme
         * eine **sehr große** Liste **manuell annotierter** Daten und
         * einen **Trainingsalgorithmus**,
-    + modelliere eine **`n:n`-Beziehung** zwischen Eingabe und Annotation,
+    + modelliere eine **`n:n`-Beziehung** zwischen Eingabe und Ausgabe,
         * jedes Eingabelement (Buchstabe) wird auf eine Klasse abgebildet
     + induziere ein **statistisches Modell**,
     + und evaluiere dessen Qualität anhand von **Evaluationsdaten**
@@ -378,7 +378,7 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
       0 0 0 1 1 0 0 0
       ```
     + Training
-        * Zählen der Sequenzen im Kontext
+        * Zählen von Sequenzen aus Eingabe-Ausgabe-Paaren unter der Markov-Annahme
         * Berechnung einer Wahrscheinlichkeitsverteilung
         * Repräsentation als statistisches Modell (HMM, CRF, neuronales Netz)
 
@@ -386,8 +386,13 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
 
 # NLP: Wortrennung
 
-- Evaluation
-    * ...
+- Zusammenhang zu Morphologie!
+    ```
+    v e r i f i z i e r e n
+    0 1 0 1 0 1 0 0 1 0 0 0
+    v e r i r r e n
+    0 0 1 0 1 0 0 0
+    ```
 - klassischer Ansatz des *Machine Learning*: **überwachtes Lernen**,
     + manuell gepflegte **Daten** als Operanden und
     + **Induktionsverfahren** zu deren Modellierung
