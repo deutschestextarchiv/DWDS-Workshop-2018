@@ -78,7 +78,8 @@ class: middle
 ---
 
 # Das DWDS
-![DWDS-Webseite](figures/dwds.png)
+
+.center[![DWDS-Webseite](figures/dwds.png)]
 
 ---
 
@@ -261,13 +262,13 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
 
 # Deutsches Wörterbuch (DWB)
 
-![¹DWB](http://dwb.bbaw.de/band1.jpg)
+.center[![¹DWB](http://dwb.bbaw.de/band1.jpg)]
 
 ---
 
 # Lexikografische Arbeit
 
-![lexikografischer Arbeitsplatz](http://dwb.bbaw.de/arbeitsstelle/archiv/archiv1-m.jpg)
+.center[![lexikografischer Arbeitsplatz](http://dwb.bbaw.de/arbeitsstelle/archiv/archiv1-m.jpg)]
 
 ---
 
@@ -438,12 +439,6 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
 
 # Typische Verbindungen
 
-![Stress](figures/wp_kaffee.png)
-
----
-
-# Typische Verbindungen
-
 + statistisch signifikante und damit typische Wortverbindungen
 + als Schlagwortwolke (Tagcloud) oder als Tabelle
 
@@ -451,14 +446,47 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
 
 ---
 
-# Wortverlaufskurven
+# Typische Verbindungen
 
-+ Wortvergleiche möglich (Gemeinsamkeiten und Unterschiede)
+.center[<img src="figures/wp_kaffee.png" style="width:700px"/>]
+
+---
+
+# Typische Verbindungen
+
++ Wortvergleiche: Gemeinsamkeiten und Unterschiede
+
+.center[<span style="color:#5B7BB6;font-weight:bold">verkünden</span> und <span style="color:#c30c60;font-weight:bold">bekanntgeben</span>]
+
+.center[<img src="figures/wp_vergleich.png" style="height:400px"/>]
+
+---
+
+# Verwendungsbeispiele
+
++ **automatisch** gefundene Beispiele für Wörter
++ **gut** gewählte Beispiele und Belege
++ Belege aus **echten Texte**n:
+    - aus verschiedenen Zeiten
+    - aus verschiedenen Textsorten
+
+
+- Kriterien:
+    + Stichwort an prominenter Stelle
+    + keine zu kurzen oder zu langen Sätze
+    + Beleg soll nur gebräuchliche Wörter enthalten
+
+---
+
+# Verwendungsbeispiele
+
+.center[.img-orig[![Stress](figures/roulade.png)]]
 
 ---
 
 # Wortverlaufskurven
 
++ **Häufigkeit eines Wort über einen zeitlichen Verlauf**
 + nutzen Textsammlungen als Basis:
     - Zeitungen (1945 bis heute)
     - Deutsches Textarchiv und DWDS-Kernkorpus (1600&ndash;2000)
@@ -466,7 +494,7 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
     - *Datum* (Jahr)
     - *Textklasse* (Belletristik, Gebrauchsliteratur, Wissenschaft, Zeitung)
     - und viele weitere ...
-+ bilden die Häufigkeit eines Wort über einen zeitlichen Verlauf ab:
++ Darstellung:
     - relativ (Vorkommen pro Million)
         + 
 .red[Achtung!] Kurven werden geglättet, da nicht für jedes Jahr ausreichend und gleich viele Daten verfügbar sind
@@ -476,16 +504,16 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
 
 # Wortverlaufskurven
 
-![Stress](figures/stress.svg)
+.center[<img src="figures/stress.svg" style="width:800px"/>]
 
 ---
 
 # Wortverlaufskurven
 
-![Flugzeug vs. Eisenbahn](figures/flugzeug_vs_eisenbahn.svg)
+.center[<img src="figures/flugzeug_vs_eisenbahn.svg" style="width:800px"/>]
 
 ---
 
 # Wortverlaufskurven
 
-![(Bundes)Kanzler vs. (Bundes)Kanzlerin](figures/kanzler_vs_kanzlerin.svg)
+.center[<img src="figures/kanzler_vs_kanzlerin.svg" style="width:800px"/>]
