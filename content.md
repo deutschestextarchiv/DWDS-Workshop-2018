@@ -368,20 +368,15 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
         * http://de.wiktionary.org
         * Wortrennungsangaben für > 250 000 deutsche Wörter
         * `Elektrik ↦ Elek·t·rik`
-    + Kodierung `\(f: \Sigma\rightarrow\mathbb{B}\)`
-
-
-$$
-f(x) = \begin{cases} 1 & x\,\text{gefolgt von Trennstelle} \\\\
-0 & \, \text{sonst}\end{cases}
-$$
-
-```
-E l e k t r i k
-0 0 0 1 1 0 0 0
-```
-
-
+    + Kodierung `\(f: \Sigma\rightarrow\mathbb{B}\)` 
+      $$
+      f(x) = \begin{cases} 1 & x\,\text{gefolgt von Trennstelle} \\\\
+      0 & \, \text{sonst}\end{cases}
+      $$ 
+      ```
+      E l e k t r i k
+      0 0 0 1 1 0 0 0
+      ```
     + Training
         * Zählen der Sequenzen im Kontext
         * Berechnung einer Wahrscheinlichkeitsverteilung
