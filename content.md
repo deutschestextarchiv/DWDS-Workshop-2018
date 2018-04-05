@@ -80,7 +80,14 @@ class: title-slide
 
 # Computerlinguistik im Alltag
 
+.center[![Websiete](figures/mtl.png)]
+
+---
+
+# Computerlinguistik im Alltag
+
 .center[<img src="https://media.diepresse.com/images/uploads_640/3/1/8/705304/020111102110031.jpg" width="300"/>]
+
 
 ---
 
@@ -399,8 +406,7 @@ count: false
     + Grundlage von *Deep Learning* (**tiefe** neuronale Netze)
 - Einsatz auch außerhalb der Sprachverarbeitung
     + personalisierte Werbung
-    + Kundenprofilierung
-    + ...
+    + Kundenprofilierung etc.
 - Motivation für „Datensammelwut“
 
 ---
@@ -563,7 +569,18 @@ count: false
 
 ---
 
+# NLP: Digitale Lexikographie
+
+- Aufgabe:
+
+---
+
 # NLP: Linguistische Annotation
+
+- Aufgabe:
+    + Zerlegung des Fließtextes in Wörter und Sätze: **Tokenisierung**
+    + Bestimmung der Grundform der Wörter: **Lemmatisierung**
+    + Bestimmung der tatsächlichen Wortart eines Wortes: **PoS-Tagging**
 
 ---
 
