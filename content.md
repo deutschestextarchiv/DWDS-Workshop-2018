@@ -404,10 +404,10 @@ count: false
     + manuell gepflegte **Daten** als Operanden und
     + **Induktionsverfahren** zu deren Modellierung
     + Grundlage von *Deep Learning* (**tiefe** neuronale Netze)
-- Einsatz auch außerhalb der Sprachverarbeitung
-    + personalisierte Werbung
-    + Kundenprofilierung etc.
-- Motivation für „Datensammelwut“
+    - Einsatz auch außerhalb der Sprachverarbeitung
+        + personalisierte Werbung
+        + Kundenprofilierung etc.
+    - Motivation für „Datensammelwut“
 
 ---
 
@@ -537,6 +537,63 @@ count: false
 
 ---
 
+# DWDS: Wortverlaufskurven
+
++ **Häufigkeit eines Wort über einen zeitlichen Verlauf**
++ nutzen Textsammlungen als Basis:
+    - Zeitungen (1945 bis heute)
+    - Deutsches Textarchiv und DWDS-Kernkorpus (1600&ndash;2000)
++ Metadaten für jeden Text:
+    - *Datum* (Jahr)
+    - *Textklasse* (Belletristik, Gebrauchsliteratur, Wissenschaft, Zeitung)
+    - und viele weitere ...
++ Darstellung:
+    - relativ (Vorkommen pro Million)
+        + 
+.red[Achtung!] Kurven werden geglättet, da nicht für jedes Jahr ausreichend und gleich viele Daten verfügbar sind
+    - in absoluten Zahlen
+
+---
+
+# DWDS: Wortverlaufskurven
+
+.center[<img src="figures/stress.svg" style="width:800px"/>]
+
+---
+
+# DWDS: Wortverlaufskurven
+
+.center[<img src="figures/flugzeug_vs_eisenbahn.svg" style="width:800px"/>]
+
+---
+
+# DWDS: Wortverlaufskurven
+
+.center[<img src="figures/kanzler_vs_kanzlerin.svg" style="width:800px"/>]
+
+---
+
+# DWDS: Wortverlaufskurven
+
+.center[<img src="figures/kohl.svg" style="width:800px"/>]
+
+---
+
+# NLP: Digitale Lexikographie
+
+- Aufgabe:
+
+---
+
+# NLP: Linguistische Annotation
+
+- Aufgabe:
+    + Zerlegung des Fließtextes in Wörter und Sätze: **Tokenisierung**
+    + Bestimmung der Grundform der Wörter: **Lemmatisierung**
+    + Bestimmung der tatsächlichen Wortart eines Wortes: **PoS-Tagging**
+
+---
+
 # DWDS: Verwendungsbeispiele
 
 + **automatisch** gefundene Beispiele für Wörter
@@ -566,21 +623,6 @@ count: false
 + heute: automatisch ausgesucht
 
 .center[![Stress](figures/roulade.png)]
-
----
-
-# NLP: Digitale Lexikographie
-
-- Aufgabe:
-
----
-
-# NLP: Linguistische Annotation
-
-- Aufgabe:
-    + Zerlegung des Fließtextes in Wörter und Sätze: **Tokenisierung**
-    + Bestimmung der Grundform der Wörter: **Lemmatisierung**
-    + Bestimmung der tatsächlichen Wortart eines Wortes: **PoS-Tagging**
 
 ---
 
@@ -617,42 +659,6 @@ count: false
 # Spiel: Profilardy
 
 .center[[**Klick mich!**](https://docs.google.com/presentation/d/1qPfvBRmpPNAV6Y3zHGoYXAj-MuKy84E1ZJPvgMjwezA)]
-
----
-
-# DWDS: Wortverlaufskurven
-
-+ **Häufigkeit eines Wort über einen zeitlichen Verlauf**
-+ nutzen Textsammlungen als Basis:
-    - Zeitungen (1945 bis heute)
-    - Deutsches Textarchiv und DWDS-Kernkorpus (1600&ndash;2000)
-+ Metadaten für jeden Text:
-    - *Datum* (Jahr)
-    - *Textklasse* (Belletristik, Gebrauchsliteratur, Wissenschaft, Zeitung)
-    - und viele weitere ...
-+ Darstellung:
-    - relativ (Vorkommen pro Million)
-        + 
-.red[Achtung!] Kurven werden geglättet, da nicht für jedes Jahr ausreichend und gleich viele Daten verfügbar sind
-    - in absoluten Zahlen
-
----
-
-# DWDS: Wortverlaufskurven
-
-.center[<img src="figures/stress.svg" style="width:800px"/>]
-
----
-
-# DWDS: Wortverlaufskurven
-
-.center[<img src="figures/flugzeug_vs_eisenbahn.svg" style="width:800px"/>]
-
----
-
-# DWDS: Wortverlaufskurven
-
-.center[<img src="figures/kanzler_vs_kanzlerin.svg" style="width:800px"/>]
 
 ---
 
