@@ -547,20 +547,6 @@ $$
 
 ---
 
-# Überblick
-
-## Demo
-
-- Typische Verbindungen:
-    - Korpora: Annotation, Quellen
-    - syntaktische Analyse
-    - Kollokationen
-    - distributionelle Semantik (Profilardy)
-- Verwendungsbeispiele
-- Wortverlaufskurven
-
----
-
 # DWDS: Typische Verbindungen
 
 + statistisch signifikante und damit typische Wortverbindungen
