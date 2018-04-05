@@ -21,6 +21,7 @@ ul > li > ul > li > ul > li { font-size:1.2rem }
 
 .diasys { color:#595; font-weight:bold }
 .smaller { font-size:1.2em }
+.red { color:#c00 }
 
 .remark-slide-content h1 { font-size:3rem; margin-top:0; color:#c60c30 }
 .remark-slide-content h2 { font-size:2.5rem }

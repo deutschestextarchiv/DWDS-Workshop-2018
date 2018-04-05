@@ -231,6 +231,19 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
 
 # Lexikografische Arbeit
 
++ *Deutsches Wörterbuch* (DWB), 1838&ndash;1961
+    - von <span style="font-variant:small-caps;">Jacob</span> und <span style="font-variant:small-caps;">Wilhelm Grimm</span>
+        * Gründungsväter der Germanistik
+        * Herausgeber der weltberühmten *Kinder- und Hausmärchen*
+    - das größte und umfassendste Wörterbuch zur deutschen Sprache
+    - Belegwörterbuch zur Herkunft und zum Gebrauch jedes deutschen Wortes
+    - 32 Bände, ca. 320&#x202f;000 Stichwörter, ca. 600&#x202f;000 Belege
+    - konsequente Kleinschreibung
+
+---
+
+# Deutsches Wörterbuch (DWB)
+
 ![¹DWB](http://dwb.bbaw.de/band1.jpg)
 
 ---
@@ -324,7 +337,7 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
     + etwas **gelten** lassen
     + etwas **geltend** machen
     + es **gilt** etwas (zu tun)
-- Kollokationen:
+- Kollokationen (= Stellung, Anordnung):
     + *mit Akkusativobjekt:* **Drogen** beschlagnahmen, sicherstellen
     + *mit vergleichender Wortgruppe:* **Drogen** wie Kokain, Ecstasy, Heroin
 
@@ -337,7 +350,7 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
     + *λόγος (lógos):* „Wort“
 - Wissenschaft von der Entstehung und geschichtlichen Veränderung einzelner Wörter 
 - im DWDS mit ca. 25 000 Einträgen:
-    + Wolfgang Pfeiffer (&#x2A;1922) &ndash; *Etymologisches Wörterbuch des Deutschen*
+    + <span style="font-variant:small-caps;">Wolfgang Pfeiffer</span> (&#x2A;1922) &ndash; *Etymologisches Wörterbuch des Deutschen*
 
 ---
 
@@ -407,6 +420,29 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
 ---
 
 # Formteil
+
+---
+
+# Wortverlaufskurven
+
++ nutzen Textsammlungen als Basis:
+    - Zeitungen (1945 bis heute)
+    - Deutsches Textarchiv und DWDS-Kernkorpus (1600&ndash;2000)
++ Metadaten für jeden Text:
+    - *Datum* (Jahr)
+    - *Textklasse* (Belletristik, Gebrauchsliteratur, Wissenschaft, Zeitung)
+    - und viele weitere ...
++ bilden die Häufigkeit eines Wort über einen zeitlichen Verlauf ab:
+    - relativ (Vorkommen pro Million)
+        + 
+.red[Achtung!] Kurven werden geglättet
+    - absolut
+
+---
+
+# Wortverlaufskurven
+
+![Stress](stress.svg)
 
 ---
 
