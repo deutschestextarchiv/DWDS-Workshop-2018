@@ -29,8 +29,6 @@ class: title-slide
 
 ---
 
-class: middle
-
 # Was ist Computerlinguistik?
 
 - Teildisziplin der **Sprachwissenschaft**
@@ -158,6 +156,19 @@ count: false
     + Nachsilben `{heit<N>,lich<A>}`
 
 ![Lexikon](figures/morph_ex2.svg)
+
+---
+
+count: false
+
+# NLP: morphologische Analyse
+
+- Illustration
+    + Lexikon `{schön<A>,Geist<N>}`
+    + Vorsilben `{un<p>,ur<p>}`
+    + Nachsilben `{heit<N>,lich<A>}`
+
+![Lexikon und Präfixe](figures/morph_ex3.svg)
 
 ---
 
