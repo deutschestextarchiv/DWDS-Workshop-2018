@@ -560,6 +560,7 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
 
 # DWDS: Typische Verbindungen
 
++ **DWDS-Wortprofil**
 + statistisch signifikante und damit typische Wortverbindungen
 + als Schlagwortwolke (Tagcloud) oder als Tabelle
 
@@ -587,7 +588,9 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
 
 ---
 
-# Wortprofilaufgaben
+# Spiel: Profilardy
+
+.center[[**Klick mich!**](https://docs.google.com/presentation/d/1qPfvBRmpPNAV6Y3zHGoYXAj-MuKy84E1ZJPvgMjwezA)]
 
 ---
 
@@ -631,3 +634,7 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
 
 - Wörterbücher schreiben sich allein von selbst
 - aber vieles ist maschinell machbar
+- Spracherkennung (digitale Assistenten)
+- Übersetzungen
+
+.center[<img src="https://www.golem.de/1309/101460-64454-i_rc.jpg"/>]
