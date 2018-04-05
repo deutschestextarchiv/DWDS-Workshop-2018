@@ -194,7 +194,7 @@ count: false
     + Vorsilben `{un<p>,ur<p>}`
     + Nachsilben `{heit<N>,lich<A>}`
 
-.center[.img-orig[![Lexikon](figures/morph_ex5.svg)]]
+.center[.img-orig[![Lexikon](figures/morph_ex6.svg)]]
 
 ---
 
@@ -207,7 +207,7 @@ count: false
     + Vorsilben `{un<p>,ur<p>}`
     + Nachsilben `{heit<N>,lich<A>}`
 
-.center[.img-orig[![Lexikon](figures/morph_ex6.svg)]]
+.center[.img-orig[![Lexikon](figures/morph_ex5.svg)]]
 
 ---
 
