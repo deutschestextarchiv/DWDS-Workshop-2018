@@ -319,10 +319,10 @@ count: false
 - klassischer **regelbasierter** Ansatz,
     + manuell gepflegte **Daten** als Operanden und
     + manuell erstellte **Regeln** zu deren Kombination
-- Grundlage bzw. Bestandteil der meisten Sprachverarbeitungssysteme
-
-http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4n&from=wb
-http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&from=wb
+- Bestandteil der meisten Sprachverarbeitungssysteme
+- Wörterbuch unendlicher Größe:
+    - [Dampfschifffahrtsgesellschaftskapitän](https://www.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4n)
+    - [Dampfschifffahrtsgesellschaftskapitänsmütze](https://www.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze)
 
 ---
 
@@ -339,7 +339,7 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
       ```
     + Herausforderung durch **Lehnwörter**
       ```
-      Ale ↦ Ale ↦ {Ale}
+      Software ↦ Soft·ware ↦ {Soft-ware}
       ```
 
 ---
