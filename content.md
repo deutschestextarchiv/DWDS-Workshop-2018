@@ -274,7 +274,7 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
         * `Elektrik ↦ Elek·t·rik`
     + Kodierung `\(f: \Sigma\rightarrow\mathbb{B}\)`
       
-      $$f(x) = \begin{cases} 1 & x\,\text{gefolgt von Trennstelle} \\
+      $$f(x) = \begin{cases} 1 & x\,\text{gefolgt von Trennstelle} \\\\
                              0 & \, \text{sonst}\end{cases}$$
 
 ---
