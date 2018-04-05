@@ -169,7 +169,7 @@ count: false
     + Vorsilben `{un<p>,ur<p>}`
     + Nachsilben `{heit<N>,lich<A>}`
 
-.center[.img-orig[![Lexikon](figures/morph_ex3.svg)]]
+<center><img src="figures/morph_ex3.svg" width="650" /></center>
 
 ---
 
@@ -182,7 +182,7 @@ count: false
     + Vorsilben `{un<p>,ur<p>}`
     + Nachsilben `{heit<N>,lich<A>}`
 
-.center[.img-orig[![Lexikon](figures/morph_ex4.svg)]]
+<center><img src="figures/morph_ex4.svg" width="880" /></center>
 
 ---
 
@@ -195,7 +195,7 @@ count: false
     + Vorsilben `{un<p>,ur<p>}`
     + Nachsilben `{heit<N>,lich<A>}`
 
-.center[.img-orig[![Lexikon](figures/morph_ex6.svg)]]
+<center><img src="figures/morph_ex6.svg" width="880" /></center>
 
 ---
 
@@ -208,8 +208,7 @@ count: false
     + Vorsilben `{un<p>,ur<p>}`
     + Nachsilben `{heit<N>,lich<A>}`
 
-.center[.img-orig[![Lexikon](figures/morph_ex5.svg)]]
-<img src="images/morph_ex5.svg" width="800">Lexikon</img>
+<center><img src="figures/morph_ex5.svg" width="880" /></center>
 
 ---
 
@@ -273,8 +272,8 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
         * http://de.wiktionary.org
         * Wortrennungsangaben für > 250 000 deutsche Wörter
         * `Elektrik ↦ Elek·t·rik`
-    + Kodierung
-        * `\(x={a \over b}\)`
+    + Kodierung `\(f: \Sigma\rightarrow\mathbb{B}\)`
+      $$f(x) = \begin{cases} 1 & x \text{gefolgt von Trennungsm\"{o}glichkeit} \\ 0 & \, \text{sonst}\end{cases}$$
 
 ---
 
