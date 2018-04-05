@@ -368,20 +368,15 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
         * http://de.wiktionary.org
         * Wortrennungsangaben für > 250 000 deutsche Wörter
         * `Elektrik ↦ Elek·t·rik`
-    + Kodierung `\(f: \Sigma\rightarrow\mathbb{B}\)`
-
-
-$$
-f(x) = \begin{cases} 1 & x\,\text{gefolgt von Trennstelle} \\\\
-0 & \, \text{sonst}\end{cases}
-$$
-
-```
-E l e k t r i k
-0 0 0 1 1 0 0 0
-```
-
-
+    + Kodierung `\(f: \Sigma\rightarrow\mathbb{B}\)` 
+      $$
+      f(x) = \begin{cases} 1 & x\,\text{gefolgt von Trennstelle} \\\\
+      0 & \, \text{sonst}\end{cases}
+      $$ 
+      ```
+      E l e k t r i k
+      0 0 0 1 1 0 0 0
+      ```
     + Training
         * Zählen der Sequenzen im Kontext
         * Berechnung einer Wahrscheinlichkeitsverteilung
@@ -484,14 +479,15 @@ E l e k t r i k
 
 # Etymologie &ndash; Aufgaben
 
-+ *Ampel*
-+ *Brille*
-+ *Hängematte*
-+ *heulen*
-+ *Krawatte*
-+ *Laune*
-+ *Muckefuck*
-+ *Teddy*
++ Bestimme die Herkunft eines der folgenden Wörter:
+    + *Ampel*
+    + *Brille*
+    + *Hängematte*
+    + *heulen*
+    + *Krawatte*
+    + *Laune*
+    + *Muckefuck*
+    + *Teddy*
 
 ---
 
@@ -548,13 +544,17 @@ E l e k t r i k
 
 # DWDS: Verwendungsbeispiele
 
++ früher: hunderte Zettelkästen mit Belegstellen
+
 .center[![lexikografischer Arbeitsplatz](http://dwb.bbaw.de/arbeitsstelle/archiv/archiv1-m.jpg)]
 
 ---
 
 # DWDS: Verwendungsbeispiele
 
-.center[.img-orig[![Stress](figures/roulade.png)]]
++ heute: automatisch ausgesucht
+
+.center[![Stress](figures/roulade.png)]
 
 ---
 
