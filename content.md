@@ -61,6 +61,35 @@ class: title-slide
 
 ---
 
+# Computerlinguistik im Alltag
+
+.center[![Websiete](figures/websiete.png)]
+
+---
+
+# Computerlinguistik im Alltag
+
+<table>
+  <tr>
+    <td><img src="figures/wetter_bild.png"/></td>
+    <td><img src="figures/wetter_text.png"/></td>
+  </tr>
+</table>
+
+---
+
+# Computerlinguistik im Alltag
+
+.center[<img src="https://media.diepresse.com/images/uploads_640/3/1/8/705304/020111102110031.jpg" width="300"/>]
+
+---
+
+# Computerlinguistik im Alltag
+
+.center[![DWDS-Webseite](figures/dwds.png)]
+
+---
+
 # Das DWDS
 
 - Institution: Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)
@@ -75,23 +104,94 @@ class: title-slide
 
 ---
 
-# Das DWDS
+# Lexikografische Arbeit
 
-.center[![DWDS-Webseite](figures/dwds.png)]
+> In keiner Sprache kann man sich so schwer verständigen wie in der Sprache.  
+*(Karl Kraus, österr. Schriftsteller, 1874&ndash;1936)*
+
++ (oft mühevolle) Handarbeit
++ viel Recherche:
+    - in anderen Wörterbüchern
+    - in Bibliotheken
+    - im Internet
+    - in Textsammlungen
+    - ...
++ Teamsitzungen zur Absprache und Nachfrage
+
+---
+
+# Lexikografische Arbeit
+
++ *Deutsches Wörterbuch* (DWB), 1838&ndash;1961
+    - von <span style="font-variant:small-caps;">Jacob</span> und <span style="font-variant:small-caps;">Wilhelm Grimm</span>
+        * Gründungsväter der Germanistik
+        * Herausgeber der weltberühmten *Kinder- und Hausmärchen*
+    - das größte und umfassendste Wörterbuch zur deutschen Sprache
+    - Belegwörterbuch zur Herkunft und zum Gebrauch jedes deutschen Wortes
+    - 32 Bände, ca. 320&#x202f;000 Stichwörter, ca. 600&#x202f;000 Belege
+    - konsequente Kleinschreibung
+
+---
+
+# Deutsches Wörterbuch (DWB)
+
+.center[![¹DWB](http://dwb.bbaw.de/band1.jpg)]
 
 ---
 
 # DWDS: Formteil
 
-http://zwei.dwds.de/wb/Leiter
+.center[<img src="figures/leiter1.png" width="700"/>]
 
-- Zusammenfassung der **formalen Eigenschaften** eines Wortes:
-    + Wortart
-    + Eck- (Substantive), Stamm- (Verben) und Komparationsformen (Adjektive)
-    + Aussprache
-    + Worttrennung (Zeilenende)
-    + Wortzerlegung, -bildung
+- Zusammenfassung der **formalen Eigenschaften** eines Wortes
 - teils manuell, teils automatisch erhoben
+
+---
+
+count:false
+
+# DWDS: Formteil
+
+.center[<img src="figures/leiter2.png" width="700"/>]
+
+- Zusammenfassung der **formalen Eigenschaften** eines Wortes
+- teils manuell, teils automatisch erhoben
+
+---
+
+# DWDS: Formteil
+
++ Wortart (Substantiv, Verb, Adjektiv, ...)
+    + inklusive Eck- und Stammformen; Komparationsangaben
++ Schreibungen
+    * alles zulässig: **Delfin**, **Delphin**
+    * neue Rechtschreibung: **Ablass**, ~~Ablaß~~
+    * war schon immer falsch: **E-Mail**, ~~Email~~
++ weitere Informationen
+    * **die** E-Mail, **das** E-Mail
+.diasys[süddeutsch, österreichisch, schweizerisch]
+    * **das** Virus, **der** Virus
+.diasys[umgangssprachlich]
+    * **Ferien**
+.diasys[wird nur im Plural verwendet]
+
+---
+
+# DWDS: Formteil
+
++ Homographie
+    - gleich geschriebene Wörter
+    - verschieden nach: Herkunft, Formen, Genus, Aussprache, Zusammensetzung
+    - Beispiele:
+        + **Bug**: Vorderteil eines Schiffes, (Software)Fehler
+        + **Band**: Pl. Bänder/Bande, Bände, Bands
+        + **Bank**: Pl. Bänke, Banken
+        + **sein**: Pronomen, Verb
+        + **Dichtung**: von *dicht*, von *(er)dichten*
+        + **Hut**: der, die
+        + **Wachstube**: *Wach* + *Stube*, *Wachs* + *Tube*
++ Aussprache und Worttrennung
++ Wortzerlegung, Wortbildung
 
 ---
 
@@ -292,96 +392,22 @@ $$
 
 # Lexikografische Arbeit
 
-> In keiner Sprache kann man sich so schwer verständigen wie in der Sprache.  
-*(Karl Kraus, österr. Schriftsteller, 1874&ndash;1936)*
-
-+ (oft mühevolle) Handarbeit
-+ viel Recherche:
-    - in anderen Wörterbüchern
-    - in Bibliotheken
-    - im Internet
-    - in Textsammlungen
-    - ...
-+ Teamsitzungen zur Absprache und Nachfrage
-
----
-
-# Lexikografische Arbeit
-
-+ *Deutsches Wörterbuch* (DWB), 1838&ndash;1961
-    - von <span style="font-variant:small-caps;">Jacob</span> und <span style="font-variant:small-caps;">Wilhelm Grimm</span>
-        * Gründungsväter der Germanistik
-        * Herausgeber der weltberühmten *Kinder- und Hausmärchen*
-    - das größte und umfassendste Wörterbuch zur deutschen Sprache
-    - Belegwörterbuch zur Herkunft und zum Gebrauch jedes deutschen Wortes
-    - 32 Bände, ca. 320&#x202f;000 Stichwörter, ca. 600&#x202f;000 Belege
-    - konsequente Kleinschreibung
-
----
-
-# Deutsches Wörterbuch (DWB)
-
-.center[![¹DWB](http://dwb.bbaw.de/band1.jpg)]
-
----
-
-# Lexikografische Arbeit
-
-.center[![lexikografischer Arbeitsplatz](http://dwb.bbaw.de/arbeitsstelle/archiv/archiv1-m.jpg)]
-
----
-
-# Lexikografische Arbeit
-
 + Wortschatz der deutschen Sprache im Auge behalten
 + das eigene Wörterbuch kennen
 
 
-+ neue Wörterbuchartikel schreiben: **Brexit**, **posten**
-+ bestehende Artikel ergänzen:
+1. neue Wörterbuchartikel schreiben: **Brexit**, **posten**
+2. bestehende Artikel ergänzen:
     - neue Bedeutungen: **Maus**, **Ampel**
     - Anpassung an gesellschaftlichen Wandel: **Ehe**, **Eskimo**, **Gutmensch**
     - Artikel erweitern (weil bislang nur minimal)
-+ bestehende Artikel überarbeiten:
+3. bestehende Artikel überarbeiten:
     - Bedeutungswandel: **klicken**
     - Rechtschreibreform: ~~Ketschup~~, **Co-Trainer**
 
 ---
 
-# Formangaben
-
-+ Wortart (Substantiv, Verb, Adjektiv, ...)
-+ Schreibungen
-    * alles zulässig: **Delfin**, **Delphin**
-    * neue Rechtschreibung: **Ablass**, ~~Ablaß~~
-    * war schon immer falsch: **E-Mail**, ~~Email~~
-+ weitere Informationen
-    * **die** E-Mail, **das** E-Mail
-.diasys[süddeutsch, österreichisch, schweizerisch]
-    * **das** Virus, **der** Virus
-.diasys[umgangssprachlich]
-    * **Ferien**
-.diasys[wird nur im Plural verwendet]
-
-
----
-
-# Homographe
-
-- gleich geschriebene Wörter
-- verschieden nach: Herkunft, Formen, Genus, Aussprache, Zusammensetzung
-- Beispiele:
-    + **Bug**: Vorderteil eines Schiffes, (Software)Fehler
-    + **Band**: Pl. Bänder/Bande, Bände, Bands
-    + **Bank**: Pl. Bänke, Banken
-    + **sein**: Pronomen, Verb
-    + **Dichtung**: von *dicht*, von *(er)dichten*
-    + **Hut**: der, die
-    + **Wachstube**: *Wach* + *Stube*, *Wachs* + *Tube*
-
----
-
-# Lesarten
+# DWDS: Bedeutungsteil
 
 - (Unter)Bedeutungen eines Wortes:
     + **scharf**: schneidend, spitz, stark reizend, genau, deutlich, streng, ...
@@ -403,7 +429,7 @@ $$
 
 ---
 
-# Lesarten
+# DWDS: Bedeutungsteil
 
 - (konstruierte) Beispiele:
     + die allgemeinbildende, berufsbildende, zehnklassige **Schule**
@@ -489,52 +515,7 @@ $$
 
 ---
 
-# Überblick
-
-## Demo
-
-- Typische Verbindungen:
-    - Korpora: Annotation, Quellen
-    - syntaktische Analyse
-    - Kollokationen
-    - distributionelle Semantik (Profilardy)
-- Verwendungsbeispiele
-- Wortverlaufskurven
-
----
-
-# Überblick
-
-## Aufgabenteil
-
----
-
-# Typische Verbindungen
-
-+ statistisch signifikante und damit typische Wortverbindungen
-+ als Schlagwortwolke (Tagcloud) oder als Tabelle
-
-.center[.img-orig[![Stress](figures/wp_kaffee_objekt.png)]]
-
----
-
-# Typische Verbindungen
-
-.center[<img src="figures/wp_kaffee.png" style="width:700px"/>]
-
----
-
-# Typische Verbindungen
-
-+ Wortvergleiche: Gemeinsamkeiten und Unterschiede
-
-.center[<span style="color:#5B7BB6;font-weight:bold">verkünden</span> und <span style="color:#c30c60;font-weight:bold">bekanntgeben</span>]
-
-.center[<img src="figures/wp_vergleich.png" style="height:400px"/>]
-
----
-
-# Verwendungsbeispiele
+# DWDS: Verwendungsbeispiele
 
 + **automatisch** gefundene Beispiele für Wörter
 + **gut** gewählte Beispiele und Belege
@@ -550,13 +531,70 @@ $$
 
 ---
 
-# Verwendungsbeispiele
+# DWDS: Verwendungsbeispiele
+
+.center[![lexikografischer Arbeitsplatz](http://dwb.bbaw.de/arbeitsstelle/archiv/archiv1-m.jpg)]
+
+---
+
+# DWDS: Verwendungsbeispiele
 
 .center[.img-orig[![Stress](figures/roulade.png)]]
 
 ---
 
-# Wortverlaufskurven
+# NLP: Linguistische Annotation
+
+---
+
+# Überblick
+
+## Demo
+
+- Typische Verbindungen:
+    - Korpora: Annotation, Quellen
+    - syntaktische Analyse
+    - Kollokationen
+    - distributionelle Semantik (Profilardy)
+- Verwendungsbeispiele
+- Wortverlaufskurven
+
+---
+
+# DWDS: Typische Verbindungen
+
++ statistisch signifikante und damit typische Wortverbindungen
++ als Schlagwortwolke (Tagcloud) oder als Tabelle
+
+.center[.img-orig[![Stress](figures/wp_kaffee_objekt.png)]]
+
+---
+
+# DWDS: Typische Verbindungen
+
+.center[<img src="figures/wp_kaffee.png" style="width:700px"/>]
+
+---
+
+# NLP: Distributionelle Semantik
+
+---
+
+# DWDS: Typische Verbindungen
+
++ Wortvergleiche: Gemeinsamkeiten und Unterschiede
+
+.center[<span style="color:#5B7BB6;font-weight:bold">verkünden</span> und <span style="color:#c30c60;font-weight:bold">bekanntgeben</span>]
+
+.center[<img src="figures/wp_vergleich.png" style="height:400px"/>]
+
+---
+
+# Wortprofilaufgaben
+
+---
+
+# DWDS: Wortverlaufskurven
 
 + **Häufigkeit eines Wort über einen zeitlichen Verlauf**
 + nutzen Textsammlungen als Basis:
@@ -574,19 +612,19 @@ $$
 
 ---
 
-# Wortverlaufskurven
+# DWDS: Wortverlaufskurven
 
 .center[<img src="figures/stress.svg" style="width:800px"/>]
 
 ---
 
-# Wortverlaufskurven
+# DWDS: Wortverlaufskurven
 
 .center[<img src="figures/flugzeug_vs_eisenbahn.svg" style="width:800px"/>]
 
 ---
 
-# Wortverlaufskurven
+# DWDS: Wortverlaufskurven
 
 .center[<img src="figures/kanzler_vs_kanzlerin.svg" style="width:800px"/>]
 
