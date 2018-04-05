@@ -381,6 +381,7 @@ E l e k t r i k
 0 0 0 1 1 0 0 0
 ```
 
+
     + Training
 
 ---
