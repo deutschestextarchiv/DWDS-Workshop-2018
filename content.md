@@ -209,7 +209,7 @@ count: false
     + Nachsilben `{heit<N>,lich<A>}`
 
 .center[.img-orig[![Lexikon](figures/morph_ex5.svg)]]
-<img src="images/morph_ex5.svg" width="150%">Lexikon</img>
+<img src="images/morph_ex5.svg" width="800">Lexikon</img>
 
 ---
 
