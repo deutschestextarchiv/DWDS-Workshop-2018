@@ -169,7 +169,7 @@ count: false
     + Vorsilben `{un<p>,ur<p>}`
     + Nachsilben `{heit<N>,lich<A>}`
 
-.center[.img-orig[![Lexikon](figures/morph_ex3.svg)]]
+<center><img src="figures/morph_ex3.svg" width="600">Lexikon</img></center>
 
 ---
 
@@ -182,7 +182,7 @@ count: false
     + Vorsilben `{un<p>,ur<p>}`
     + Nachsilben `{heit<N>,lich<A>}`
 
-.center[.img-orig[![Lexikon](figures/morph_ex4.svg)]]
+<center><img src="figures/morph_ex4.svg" width="840">Lexikon</img></center>
 
 ---
 
@@ -195,7 +195,7 @@ count: false
     + Vorsilben `{un<p>,ur<p>}`
     + Nachsilben `{heit<N>,lich<A>}`
 
-.center[.img-orig[![Lexikon](figures/morph_ex6.svg)]]
+<center><img src="figures/morph_ex6.svg" width="840">Lexikon</img></center>
 
 ---
 
@@ -208,8 +208,7 @@ count: false
     + Vorsilben `{un<p>,ur<p>}`
     + Nachsilben `{heit<N>,lich<A>}`
 
-.center[.img-orig[![Lexikon](figures/morph_ex5.svg)]]
-<img src="figures/morph_ex5.svg" width="800">Lexikon</img>
+<center><img src="figures/morph_ex5.svg" width="840">Lexikon</img></center>
 
 ---
 
