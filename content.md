@@ -376,6 +376,17 @@ f(x) = \begin{cases} 1 & x\,\text{gefolgt von Trennstelle} \\\\
 0 & \, \text{sonst}\end{cases}
 $$
 
+```
+E l e k t r i k
+0 0 0 1 1 0 0 0
+```
+
+
+    + Training
+        * Zählen der Sequenzen im Kontext
+        * Berechnung einer Wahrscheinlichkeitsverteilung
+        * Repräsentation als statistisches Modell (HMM, CRF, neuronales Netz)
+
 ---
 
 # NLP: Wortrennung
@@ -549,20 +560,6 @@ $$
 ---
 
 # NLP: Linguistische Annotation
-
----
-
-# Überblick
-
-## Demo
-
-- Typische Verbindungen:
-    - Korpora: Annotation, Quellen
-    - syntaktische Analyse
-    - Kollokationen
-    - distributionelle Semantik (Profilardy)
-- Verwendungsbeispiele
-- Wortverlaufskurven
 
 ---
 
