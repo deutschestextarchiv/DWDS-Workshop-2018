@@ -393,15 +393,15 @@ count: false
     v e r i r r e n
     0 0 1 0 1 0 0 0
     ```
-- klassischer Ansatz des *Machine Learning*: **überwachtes Lernen**,
+- klassischer Ansatz: **überwachtes Lernen**,
     + manuell gepflegte **Daten** als Operanden und
     + **Induktionsverfahren** zu deren Modellierung
-- Grundlage heute omnipräsenter Verfahren des *Deep Learning* mit **tiefen neuronalen Netzen**
-- erfolgreicher Einsatz in allen Domänen der Sprachverarbeitung aber auch in anderen Bereichen
+    + Grundlage von *Deep Learning* (**tiefe** neuronale Netze)
+- erfolgreicher Einsatz auch außerhalb der Sprachverarbeitung
     + personalisierte Werbung
     + Kundenprofilierung
     + ...
-- Motivation für Datensammelwut 
+- Motivation für „Datensammelwut“
 
 ---
 
