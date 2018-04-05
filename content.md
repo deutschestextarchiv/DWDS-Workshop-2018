@@ -397,7 +397,7 @@ count: false
     + manuell gepflegte **Daten** als Operanden und
     + **Induktionsverfahren** zu deren Modellierung
     + Grundlage von *Deep Learning* (**tiefe** neuronale Netze)
-- erfolgreicher Einsatz auch außerhalb der Sprachverarbeitung
+- Einsatz auch außerhalb der Sprachverarbeitung
     + personalisierte Werbung
     + Kundenprofilierung
     + ...
