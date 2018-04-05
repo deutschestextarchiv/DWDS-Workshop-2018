@@ -29,6 +29,8 @@ class: title-slide
 
 ---
 
+class: middle
+
 # Was ist Computerlinguistik?
 
 - Teildisziplin der **Sprachwissenschaft**
@@ -141,6 +143,21 @@ http://zwei.dwds.de/wb/Leiter
     + Lexikon `{schön<A>,Geist<N>}`
     + Vorsilben `{un<p>,ur<p>}`
     + Nachsilben `{heit<N>,lich<A>}`
+
+![Lexikon](figures/morph_ex.svg)
+
+---
+
+count: false
+
+# NLP: morphologische Analyse
+
+- Illustration
+    + Lexikon `{schön<A>,Geist<N>}`
+    + Vorsilben `{un<p>,ur<p>}`
+    + Nachsilben `{heit<N>,lich<A>}`
+
+![Lexikon](figures/morph_ex2.svg)
 
 ---
 
