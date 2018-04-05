@@ -142,7 +142,7 @@ http://zwei.dwds.de/wb/Leiter
     + Vorsilben `{un<p>,ur<p>}`
     + Nachsilben `{heit<N>,lich<A>}`
 
-![Lexikon](figures/morph_ex.svg)
+.center[.img-orig[![Lexikon](figures/morph_ex.svg)]]
 
 ---
 
@@ -155,7 +155,7 @@ count: false
     + Vorsilben `{un<p>,ur<p>}`
     + Nachsilben `{heit<N>,lich<A>}`
 
-![Lexikon](figures/morph_ex2.svg)
+.center[.img-orig[![Lexikon](figures/morph_ex2.svg)]]
 
 ---
 
@@ -168,7 +168,7 @@ count: false
     + Vorsilben `{un<p>,ur<p>}`
     + Nachsilben `{heit<N>,lich<A>}`
 
-![Lexikon und Präfixe](figures/morph_ex3.svg)
+.center[.img-orig[![Lexikon](figures/morph_ex3.svg)]]
 
 ---
 

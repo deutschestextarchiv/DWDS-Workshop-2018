@@ -18,8 +18,11 @@ digraph FSM {
   ];
 
 0 [label = "0", shape = circle, style = bold]
-  0 -> 1 [label = "G:G"]
-  0 -> 8 [label = "s:s"]
+  0 -> 13 [label = "u:u"] 
+  0 -> 15 [label = "ε:ε"]
+15 [label = "15", shape = circle, style = solid]
+  15 -> 1 [label = "G:G"]
+  15 -> 8 [label = "s:s"]
 1 [label = "1", shape = circle, style = solid]
   1 -> 2 [label = "e:e"]
 2 [label = "2", shape = circle, style = solid]
@@ -41,4 +44,9 @@ digraph FSM {
   11 -> 12 [label = "n:n"]
 12 [label = "12", shape = circle, style = solid]
   12 -> 7 [label = "ε:<A>"]
+13 [label = "13", shape = circle, style = solid]
+  13 -> 14 [label = "n:n"]
+  13 -> 14 [label = "r:r"]
+14 [label = "14", shape = circle, style = solid]
+  14 -> 15 [label = "ε:<p>"]
 }
