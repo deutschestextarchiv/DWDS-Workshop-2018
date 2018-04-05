@@ -447,7 +447,24 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
 
 ---
 
-# Formteil
+# Typische Verbindungen
+
+![Stress](figures/wp_kaffee.png)
+
+---
+
+# Typische Verbindungen
+
++ statistisch signifikante und damit typische Wortverbindungen
++ als Schlagwortwolke (Tagcloud) oder als Tabelle
+
+.center[.img-orig[![Stress](figures/wp_kaffee_objekt.png)]]
+
+---
+
+# Wortverlaufskurven
+
++ Wortvergleiche möglich (Gemeinsamkeiten und Unterschiede)
 
 ---
 
@@ -463,8 +480,8 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
 + bilden die Häufigkeit eines Wort über einen zeitlichen Verlauf ab:
     - relativ (Vorkommen pro Million)
         + 
-.red[Achtung!] Kurven werden geglättet
-    - absolut
+.red[Achtung!] Kurven werden geglättet, da nicht für jedes Jahr ausreichend und gleich viele Daten verfügbar sind
+    - in absoluten Zahlen
 
 ---
 
