@@ -224,11 +224,11 @@ count:false
         * deren **morphosyntaktische** Eigenschaften
         * Vor- und Nachsilben,
     + packe dies in einen **endlichen Automaten** und
-    + bilde dessen **kleenesche Hülle**
+    + bilde dessen **Kleenesche Hülle**
 - <span style="font-variant:small-caps;">Stephen Cole Kleene</span> (1909&ndash;1994)
-    + Mitbegründer der theoretischen Informatik
+    + Mitbegründer der Theoretischen Informatik
         * formale Sprachen
-        * **reguläre Ausdrücke**
+        * **Reguläre Ausdrücke**
 
 ---
 
