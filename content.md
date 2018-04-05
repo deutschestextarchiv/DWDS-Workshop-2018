@@ -440,6 +440,19 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
 
 ---
 
+# Etymologie &ndash; Aufgaben
+
++ *Ampel*
++ *Brille*
++ *Hängematte*
++ *heulen*
++ *Krawatte*
++ *Laune*
++ *Muckefuck*
++ *Teddy*
+
+---
+
 # Thesaurus
 
 - altgriechisch:
