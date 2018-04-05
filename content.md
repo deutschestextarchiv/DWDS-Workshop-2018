@@ -172,6 +172,45 @@ count: false
 
 ---
 
+count: false
+
+# NLP: morphologische Analyse
+
+- Illustration
+    + Lexikon `{schön<A>,Geist<N>}`
+    + Vorsilben `{un<p>,ur<p>}`
+    + Nachsilben `{heit<N>,lich<A>}`
+
+.center[.img-orig[![Lexikon](figures/morph_ex4.svg)]]
+
+---
+
+count: false
+
+# NLP: morphologische Analyse
+
+- Illustration
+    + Lexikon `{schön<A>,Geist<N>}`
+    + Vorsilben `{un<p>,ur<p>}`
+    + Nachsilben `{heit<N>,lich<A>}`
+
+.center[.img-orig[![Lexikon](figures/morph_ex5.svg)]]
+
+---
+
+count: false
+
+# NLP: morphologische Analyse
+
+- Illustration
+    + Lexikon `{schön<A>,Geist<N>}`
+    + Vorsilben `{un<p>,ur<p>}`
+    + Nachsilben `{heit<N>,lich<A>}`
+
+.center[.img-orig[![Lexikon](figures/morph_ex6.svg)]]
+
+---
+
 # NLP: morphologische Analyse
 
 - Zahlen
