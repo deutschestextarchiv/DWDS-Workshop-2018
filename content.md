@@ -208,6 +208,7 @@ count: false
     + Nachsilben `{heit<N>,lich<A>}`
 
 .center[.img-orig[![Lexikon](figures/morph_ex5.svg)]]
+<img src="images/morph_ex5.svg" width="150%">Lexikon</img>
 
 ---
 
@@ -253,6 +254,7 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
     + Man nehme
         * eine **sehr große** Liste **manuell annotierter** Daten und
         * einen **Trainingsalgorithmus**,
+    + modelliere eine **`n:n`-Beziehung** zwischen Eingabe und Annotation,
     + induziere ein **statistisches Modell**,
     + und evaluiere dessen Qualität anhand von **Evaluationsdaten**
 - <span style="font-variant:small-caps;">Andrei Andrejewitsch Markow</span> (1856&ndash;1922)
