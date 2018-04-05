@@ -76,7 +76,7 @@ class: title-slide
 ---
 
 # Das DWDS
-![DWDS-Webseite](dwds.png)
+![DWDS-Webseite](figures/dwds.png)
 
 ---
 
@@ -412,10 +412,10 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
 
 # Wortverlaufskurven
 
-![Flugzeug vs. Eisenbahn](flugzeug_vs_eisenbahn.svg)
+![Flugzeug vs. Eisenbahn](figures/flugzeug_vs_eisenbahn.svg)
 
 ---
 
 # Wortverlaufskurven
 
-![(Bundes)Kanzler vs. (Bundes)Kanzlerin](kanzler_vs_kanzlerin.svg)
+![(Bundes)Kanzler vs. (Bundes)Kanzlerin](figures/kanzler_vs_kanzlerin.svg)
