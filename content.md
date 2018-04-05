@@ -256,6 +256,7 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
         * eine **sehr große** Liste **manuell annotierter** Daten und
         * einen **Trainingsalgorithmus**,
     + modelliere eine **`n:n`-Beziehung** zwischen Eingabe und Annotation,
+        * jedes Eingabelement (Buchstabe) wird auf eine Klasse abgebildet
     + induziere ein **statistisches Modell**,
     + und evaluiere dessen Qualität anhand von **Evaluationsdaten**
 - <span style="font-variant:small-caps;">Andrei Andrejewitsch Markow</span> (1856&ndash;1922)
@@ -268,6 +269,12 @@ http://zwei.dwds.de/?q=Dampfschifffahrtsgesellschaftskapit%C3%A4nsm%C3%BCtze&fro
 # NLP: Wortrennung
 
 - Illustration
+    + Daten
+        * http://de.wiktionary.org
+        * Wortrennungsangaben für > 250 000 deutsche Wörter
+        * `Elektrik ↦ Elek·t·rik`
+    + Kodierung
+        * `\(x={a \over b}\)`
 
 ---
 
