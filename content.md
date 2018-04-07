@@ -467,7 +467,7 @@ count: false
 
 ---
 
-# Etymologie
+# DWDS: Etymologie
 
 - altgriechisch: *ἐτυμολογία (etymología)*
     + *ἔτυμος (étymos):* „wahr, echt, wirklich“
@@ -478,7 +478,7 @@ count: false
 
 ---
 
-# Etymologie &ndash; Beispiele
+# DWDS: Etymologie &ndash; Beispiele
 
 .smaller[**Fake News:** Übernahme von gleichbedeutend *fake news* (amerik.-engl.)]
 
@@ -488,7 +488,7 @@ count: false
 
 ---
 
-# Etymologie &ndash; Aufgaben
+# DWDS: Etymologie &ndash; Aufgaben
 
 + Bestimme die Herkunft eines der folgenden Wörter:
     + *Ampel*
@@ -502,7 +502,7 @@ count: false
 
 ---
 
-# Thesaurus
+# DWDS: Thesaurus
 
 - altgriechisch:
   + *θησαυρός (thesaurós)* → „Schatz, Schatzhaus“
@@ -519,7 +519,7 @@ count: false
 
 ---
 
-# Thesaurus
+# DWDS: Thesaurus
 
 - Synonyme:
     * **Kreuz:**
@@ -579,18 +579,57 @@ count: false
 
 ---
 
-# NLP: Digitale Lexikographie
+# Exkurs: Digitale Lexikographie
 
-- Aufgabe:
+- Ziel:
+    + Rückbindung der lexikographischen Arbeit an **repräsentative Quellen**
+    + priorisierte Bearbeitung **wichtiger** (also häufiger) Phänomene
+    + Möglichkeit **unmittelbar** auf interessante Bedeutungsverschiebungen oder Wortneuschöpfungen zu reagieren
+- Methode:
+    + Rückgriff auf **große Textsammlungen** (*Korpora*) verschiedener Genre
+    + Einnahme verschiedener Blickwinkel (repräsentiert durch verschiedene Abfragewerkzeuge) zur vereinfachten Abfrage
+    + Repräsentation auf **digitaler Plattform** (anstatt in Buchform)
+
+---
+
+# DWDS: Digitale Textkorpora
+
+- (Sprachwissenschaftliche) Referenzkorpora
+    + repräsentative Erfassung der Gesamtheit einer Sprache (bzw. eines Sprachstandes)
+    + Englisch: British National Corpus (Burnard, 1995)
+    + Deutsch:
+        * DWDS-Kernkorpus (Geyken, 2007)
+        * Deutsches Textarchiv (Geyken und Klein, 2009)
+
+- Spezialkorpora
+    + repräsentative Erfassung eines speziellen Ausschnitts einer Sprache
+        * medial: Zeitungskorpora, Filmuntertitelkorpora, Internetkorpora
+        * inhaltlich: Berliner Wendekorpus, JuSpiL-Korpus (Dittmar, 2005)
+        * forschungsbezogen: childLex
 
 ---
 
 # NLP: Linguistische Annotation
 
 - Aufgabe:
+    + Auszeichnung bestimmter linguistischer Eigenschaften
+    + Strukturierung und Anreicherung der Rohtexte
+        * bessere Durchsuchbarkeit
+        * einfachere Belegidentifikation
+        * moderne Korpuspräsentationsformen
+        * quantitative Auswertungen
+    + Korpusumfang bedingt vollautomatische Analysekette
+
+---
+
+# NLP: Linguistische Annotation
+
+- Rezept:
     + Zerlegung des Fließtextes in Wörter und Sätze: **Tokenisierung**
     + Bestimmung der Grundform der Wörter: **Lemmatisierung**
     + Bestimmung der tatsächlichen Wortart eines Wortes: **PoS-Tagging**
+    + Klassifizierung der Beziehungen der Wörter untereinander: **Dependenzparsing**
+- vollautomatisch möglich (mit akzeptabler Qualität)
 
 ---
 
