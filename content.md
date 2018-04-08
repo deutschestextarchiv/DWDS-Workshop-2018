@@ -778,7 +778,7 @@ count: false
     + vergleiche die Vektoren miteinander.
 - Illustration:
     + `Der Säufer randalierte in der Kneipe. Die Polizei sperrte den Säufer ein, weil er randalierte.`
-.center[<img src="figures/distr.svg" style="width:100px"/>]
+.right[<img src="figures/distr.svg" style="width:200px"/>]
 
 ---
 
