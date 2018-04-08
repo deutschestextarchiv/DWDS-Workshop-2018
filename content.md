@@ -428,6 +428,35 @@ count: false
 
 ---
 
+# Digitale Lexikografie
+
+- Ziel:
+    + Rückbindung der lexikografischen Arbeit an **repräsentative Quellen**
+    + priorisierte Bearbeitung **wichtiger** (also häufiger) Phänomene
+    + Möglichkeit **unmittelbar** auf interessante Bedeutungsverschiebungen oder Wortneuschöpfungen zu reagieren
+- Methode:
+    + Rückgriff auf **große Textsammlungen** (*Korpora*) verschiedener Genre
+    + Einnahme verschiedener Blickwinkel (repräsentiert durch verschiedene Abfragewerkzeuge) zur vereinfachten Abfrage
+    + Repräsentation auf **digitaler Plattform** (anstatt in Buchform)
+
+---
+
+# DWDS: Digitale Textkorpora
+
+- (Sprachwissenschaftliche) Referenzkorpora
+    + repräsentative Erfassung der Gesamtheit einer Sprache (bzw. eines Sprachstandes)
+    + Englisch: British National Corpus (Burnard, 1995)
+    + Deutsch:
+        * DWDS-Kernkorpus (Geyken, 2007)
+        * Deutsches Textarchiv (Geyken und Klein, 2009)
+- Spezialkorpora
+    + repräsentative Erfassung eines speziellen Ausschnitts einer Sprache
+        * medial: Zeitungskorpora, Filmuntertitelkorpora, Internetkorpora
+        * inhaltlich: Berliner Wendekorpus, JuSpiL-Korpus (Dittmar, 2005)
+        * forschungsbezogen: childLex
+
+---
+
 # DWDS: Bedeutungsteil
 
 - (Unter)Bedeutungen eines Wortes:
@@ -573,42 +602,6 @@ count: false
 
 ---
 
-# DWDS: Wortverlaufskurven
-
-.center[<img src="figures/kohl.svg" style="width:800px"/>]
-
----
-
-# Exkurs: Digitale Lexikographie
-
-- Ziel:
-    + Rückbindung der lexikographischen Arbeit an **repräsentative Quellen**
-    + priorisierte Bearbeitung **wichtiger** (also häufiger) Phänomene
-    + Möglichkeit **unmittelbar** auf interessante Bedeutungsverschiebungen oder Wortneuschöpfungen zu reagieren
-- Methode:
-    + Rückgriff auf **große Textsammlungen** (*Korpora*) verschiedener Genre
-    + Einnahme verschiedener Blickwinkel (repräsentiert durch verschiedene Abfragewerkzeuge) zur vereinfachten Abfrage
-    + Repräsentation auf **digitaler Plattform** (anstatt in Buchform)
-
----
-
-# DWDS: Digitale Textkorpora
-
-- (Sprachwissenschaftliche) Referenzkorpora
-    + repräsentative Erfassung der Gesamtheit einer Sprache (bzw. eines Sprachstandes)
-    + Englisch: British National Corpus (Burnard, 1995)
-    + Deutsch:
-        * DWDS-Kernkorpus (Geyken, 2007)
-        * Deutsches Textarchiv (Geyken und Klein, 2009)
-
-- Spezialkorpora
-    + repräsentative Erfassung eines speziellen Ausschnitts einer Sprache
-        * medial: Zeitungskorpora, Filmuntertitelkorpora, Internetkorpora
-        * inhaltlich: Berliner Wendekorpus, JuSpiL-Korpus (Dittmar, 2005)
-        * forschungsbezogen: childLex
-
----
-
 # NLP: Linguistische Annotation
 
 - Aufgabe:
@@ -630,6 +623,20 @@ count: false
     + Bestimmung der tatsächlichen Wortart eines Wortes: **PoS-Tagging**
     + Klassifizierung der Beziehungen der Wörter untereinander: **Dependenzparsing**
 - vollautomatisch möglich (mit akzeptabler Qualität)
+
+---
+
+# DWDS: Wortverlaufskurven (wortartensensitiv)
+
+.center[<img src="figures/kohl1.svg" style="width:800px"/>]
+
+---
+
+count: false
+
+# DWDS: Wortverlaufskurven (wortartensensitiv)
+
+.center[<img src="figures/kohl.svg" style="width:800px"/>]
 
 ---
 
