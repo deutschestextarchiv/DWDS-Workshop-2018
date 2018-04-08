@@ -105,7 +105,7 @@ class: title-slide
 
 - Institution: Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)
 - Langzeitvorhaben
-- ca. 15 Mitarbeiter/innen
+- 15 Mitarbeiter/innen
 - Wörterbücher, Textsammlungen (Korpora), Tools
 - ca. 465 000 Wörterbucheinträge
 - ca. 13 Milliarden Textbelege aus über vier Jahrhunderten
@@ -118,7 +118,7 @@ class: title-slide
 # Lexikografische Arbeit
 
 > In keiner Sprache kann man sich so schwer verständigen wie in der Sprache.  
-*(Karl Kraus, österr. Schriftsteller, 1874&ndash;1936)*
+*(<span style="font-variant:small-caps;">Karl Kraus</span>, österr. Schriftsteller, 1874&ndash;1936)*
 
 + (oft mühevolle) Handarbeit
 + viel Recherche:
@@ -194,7 +194,7 @@ count:false
     - gleich geschriebene Wörter
     - verschieden nach: Herkunft, Formen, Genus, Aussprache, Zusammensetzung
     - Beispiele:
-        + **Bug**: Vorderteil eines Schiffes, (Software)Fehler
+        + **Bug**: Vorderteil eines Schiffes, (Software-)Fehler
         + **Band**: Pl. Bänder/Bande, Bände, Bands
         + **Bank**: Pl. Bänke, Banken
         + **sein**: Pronomen, Verb
@@ -365,10 +365,10 @@ count: false
         * jedes Eingabelement (Buchstabe) wird auf eine Klasse abgebildet
     + induziere ein **statistisches Modell**,
     + und evaluiere dessen Qualität anhand von **Evaluationsdaten**
-- <span style="font-variant:small-caps;">Andrei Andrejewitsch Markow</span> (1856&ndash;1922)
+- <span style="font-variant:small-caps;">Andrei Andrejewitsch Markov</span> (1856&ndash;1922)
     + wesentliche Beiträge zur **Wahrscheinlichkeitstheorie**
     + arbeitete früh (1913) mit Häufigkeitsanalysen in Textsammlungen
-    + formulierten die Grundlagen sog. *Hidden Markov Models*
+    + formulierte die Grundlagen sog. *Hidden Markov Models*
 
 ---
 
@@ -439,7 +439,7 @@ count: false
     + priorisierte Bearbeitung **wichtiger** (also häufiger) Phänomene
     + Möglichkeit **unmittelbar** auf interessante Bedeutungsverschiebungen oder Wortneuschöpfungen zu reagieren
 - Methode:
-    + Rückgriff auf **große Textsammlungen** (*Korpora*) verschiedener Genre
+    + Rückgriff auf **große Textsammlungen** (*Korpora*) verschiedener Genres
     + Einnahme verschiedener Blickwinkel (repräsentiert durch verschiedene Abfragewerkzeuge) zur vereinfachten Abfrage
     + Repräsentation auf **digitaler Plattform** (anstatt in Buchform)
 
