@@ -26,6 +26,10 @@ class: title-slide
 
 # Überblick
 
++ Konzepte der Computerlinguistik
++ mit ihren Möglichkeiten und Grenzen
++ anhand des Digitalen Wörterbuchs der deutschen Sprache
++ mit praktischen Übungen
 
 ---
 
@@ -666,7 +670,7 @@ CDU/CSU → CDU / CSU
 Wortes
 - statistischer Ansatz, trainiert auf **manuell kategorisierten** Daten
     + Modell über Trigramme aus Wörtern und Kategoriemengen (i.e. Wortklasse)
-    + Bestimmung der wahrscheinlichsten Kategoriesequenz fur einen Satz  ̈
+    + Bestimmung der wahrscheinlichsten Kategoriesequenz fur einen Satz
     + heuristische Auswahl der »einfachsten« **Grundform**
     + angepasste Modelle fur historische Sprache, gesprochene Sprache, Kindersprache etc.
 
@@ -720,9 +724,10 @@ count: false
 
 # DWDS: Typische Verbindungen
 
-+ **DWDS-Wortprofil**
-+ statistisch signifikante und damit typische Wortverbindungen
-+ als Schlagwortwolke (Tagcloud) oder als Tabelle
+- **DWDS-Wortprofil**
+    + statistisch signifikante und damit typische Wortverbindungen
+    + als Schlagwortwolke (Tagcloud) oder als Tabelle
+    + kombiniert distributionelle Semantik mit Dependenzparsing
 
 .center[.img-orig[![Stress](figures/wp_kaffee_objekt.png)]]
 
@@ -736,11 +741,26 @@ count: false
 
 # NLP: Distributionelle Semantik
 
+- Semantik: Theorie von der sprachlichen Bedeutung
+   + **lexikalische** Semantik: Wortbedeutungen
+   + **kompositionelle** Semantik: Phrasen- und Satzbedeutung
+   * **ontologische** Beziehungen: Synonyme, Hyponyme, Hyperonyme
+- mit automatischen Verfahren sehr schwer zu erfassen
+- distributionelle Ähnlichkeit: gleiche Kontexte ⇒ ähnliche Bedeutung
+- <span style="font-variant:small-caps;">John Rupert Firth</span> (1890&ndash;1960)
+    * »You shall know a word by the company it keeps« (Firth, J. R. 1957)
+
+---
+
+# NLP: Distributionelle Semantik
+
+- Rezept: ...
+
 ---
 
 # NLP: Dependenzparsing
 
-- Bestimmung der **strukturellen** Beziehungen zwischen W ̈ortern im Satz
+- Bestimmung der **strukturellen** Beziehungen zwischen Wörtern im Satz
 - **regelbasierter** Ansatz
     + handgeschriebene Grammatik
     + Grundform, Kategorie und morphosyntaktische Merkmale als Beschreibungseinheit
@@ -771,11 +791,14 @@ count: false
 
 ---
 
-# Ausblick auf die Zukunft
+# Zusammenfassung
 
-- Wörterbücher schreiben sich allein von selbst
-- aber vieles ist maschinell machbar
-- Spracherkennung (digitale Assistenten)
-- Übersetzungen
+- Wörterbücher schreiben sich nicht komplett allein von selbst
+- aber vieles ist maschinell (automatisch) machbar
+- https://www.dwds.de
+
+
+- Vielen Dank!
+
 
 .center[<img src="https://www.golem.de/1309/101460-64454-i_rc.jpg"/>]
