@@ -749,7 +749,7 @@ count: false
 - distributionelle Ähnlichkeit: gleiche Kontexte ⇒ ähnliche Bedeutung
 - <span style="font-variant:small-caps;">John Rupert Firth</span> (1890&ndash;1960)
     + »You shall know a word by the company it keeps« (Firth, J. R. 1957)
-    + `Er versenkte den      im Tor.`
+    + `Er versenkte den .... im Tor.`
 
 ---
 
