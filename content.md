@@ -742,19 +742,42 @@ count: false
 # NLP: Distributionelle Semantik
 
 - Semantik: Theorie von der sprachlichen Bedeutung
-   + **lexikalische** Semantik: Wortbedeutungen
-   + **kompositionelle** Semantik: Phrasen- und Satzbedeutung
-   * **ontologische** Beziehungen: Synonyme, Hyponyme, Hyperonyme
+    + **lexikalische** Semantik: Wortbedeutungen
+    + **kompositionelle** Semantik: Phrasen- und Satzbedeutung
+    * **ontologische** Beziehungen: Synonyme, Hyponyme, Hyperonyme
 - mit automatischen Verfahren sehr schwer zu erfassen
 - distributionelle Ähnlichkeit: gleiche Kontexte ⇒ ähnliche Bedeutung
 - <span style="font-variant:small-caps;">John Rupert Firth</span> (1890&ndash;1960)
-    * »You shall know a word by the company it keeps« (Firth, J. R. 1957)
+    + »You shall know a word by the company it keeps« (Firth, J. R. 1957)
+    + `Er versenkte den      im Tor.`
+
+---
+
+count: false
+
+# NLP: Distributionelle Semantik
+
+- Semantik: Theorie von der sprachlichen Bedeutung
+    + **lexikalische** Semantik: Wortbedeutungen
+    + **kompositionelle** Semantik: Phrasen- und Satzbedeutung
+    * **ontologische** Beziehungen: Synonyme, Hyponyme, Hyperonyme
+- mit automatischen Verfahren sehr schwer zu erfassen
+- distributionelle Ähnlichkeit: gleiche Kontexte ⇒ ähnliche Bedeutung
+- <span style="font-variant:small-caps;">John Rupert Firth</span> (1890&ndash;1960)
+    + »You shall know a word by the company it keeps« (Firth, J. R. 1957)
+    + `Er versenkte den Ball im Tor.`
 
 ---
 
 # NLP: Distributionelle Semantik
 
-- Rezept: ...
+- Rezept:
+    + Man definiere einen **Kontext** und **interessante** Wörter (z.B. *Satz* sowie *Nomen* und *Verben*),
+    + werfe für jedes Zielwort alle interessanten Wörter aus dem Kontext in einen Topf (*Bag of Words*),
+    + repräsentiere den Topf als **hochdimensionalen Vektorraum** und
+    + vergleiche die Vektoren miteinander.
+- Illustration:
+    + `Der Säufer randalierte in der Kneipe. Die Polizei sperrte den Säufer ein, weil er randalierte.`
 
 ---
 
