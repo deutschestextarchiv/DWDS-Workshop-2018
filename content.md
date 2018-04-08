@@ -626,7 +626,41 @@ count: false
 
 ---
 
-# DWDS: Wortverlaufskurven (wortartensensitiv)
+# NLP: Tokenisierung
+
+- Unterteilung von Fließtext in Wörter (bzw. Tokens) und Sätze
+- (Vor-)Klassifizierung der Tokens zur Beschleunigung der morphologischen Analyse
+    + Abkürzungen
+    + Zahlen
+    + Sonderzeichen
+    + Fremdalphabete
+- Normalisierung der Worttrennung
+- statistischer Ansatz, überwachtes Lernen (vgl. oben)
+
+---
+
+# NLP: Tokenisierung
+
+Problembereich Satz
+```
+Nach einer Schätzung des Industrieministeriums sind es mehr als 800.
+```
+```
+»Österreich wurde alleingelassen in Europa«, beschwerte sich SPÖ-
+Zentralsekretär Josef Cap.
+```
+Problembereich Token
+```
+Kaiser's-Netz → Kaiser 's-Netz
+Jeanne d'Arc → Jeanne d' Arc
+mm. → mm. [ORD]
+CDU/CSU → CDU / CSU
+(Verwaltungs-)Personal → ( Verwaltungs- ) Personal
+```
+
+---
+
+# DWDS: Wortverlaufskurven (rev.)
 
 .center[<img src="figures/kohl1.svg" style="width:800px"/>]
 
@@ -634,7 +668,7 @@ count: false
 
 count: false
 
-# DWDS: Wortverlaufskurven (wortartensensitiv)
+# DWDS: Wortverlaufskurven (rev.)
 
 .center[<img src="figures/kohl.svg" style="width:800px"/>]
 
