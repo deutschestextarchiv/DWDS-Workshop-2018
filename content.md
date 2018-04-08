@@ -213,7 +213,7 @@ count:false
     + Abbildung auf eine kanonische **Grundform**
       ```
       grünen  ↦ grün
-      Müllers ↦ Kai
+      Müllers ↦ Müller
       ```
     + Identifikation der beteiligten Wortbildungsprozesse
       ```
@@ -636,7 +636,7 @@ count: false
     + Fremdalphabete
 - Normalisierung der Worttrennung
 - Ansatz: Trennung an Leerraum
-- im DWDS: statistischer Ansatz, **überwachtes Lernen** (vgl. oben)
+- im DWDS: statistischer Ansatz, **überwachtes Lernen**
 
 ---
 
@@ -645,10 +645,9 @@ count: false
 Problembereich *Satz*
 ```
 Nach einer Schätzung des Industrieministeriums sind es mehr als 800.
-```
-```
 »Österreich wurde alleingelassen in Europa«, beschwerte sich SPÖ-
 Zentralsekretär Josef Cap.
+SZ: Auf die Wahlerfolge der rechtsradikalen Parteien ...
 ```
 Problembereich *Token*
 ```
@@ -736,6 +735,23 @@ count: false
 ---
 
 # NLP: Distributionelle Semantik
+
+---
+
+# NLP: Dependenzparsing
+
+- Bestimmung der **strukturellen** Beziehungen zwischen W ̈ortern im Satz
+- **regelbasierter** Ansatz
+    + handgeschriebene Grammatik
+    + Grundform, Kategorie und morphosyntaktische Merkmale als Beschreibungseinheit
+    + Implementierung mit Hilfe endlicher, gewichteter Automaten
+(schnell!)
+
+---
+
+# NLP: Dependenzparsing
+
+.center[<img src="figures/dependency_ex.svg" style="width:800px"/>]
 
 ---
 
