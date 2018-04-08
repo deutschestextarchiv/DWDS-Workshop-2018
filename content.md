@@ -628,20 +628,21 @@ count: false
 
 # NLP: Tokenisierung
 
-- Unterteilung von Fließtext in Wörter (bzw. Tokens) und Sätze
+- Unterteilung von Fließtext in **Wörter** (bzw. *Tokens*) und **Sätze**
 - (Vor-)Klassifizierung der Tokens zur Beschleunigung der morphologischen Analyse
     + Abkürzungen
     + Zahlen
     + Sonderzeichen
     + Fremdalphabete
 - Normalisierung der Worttrennung
-- statistischer Ansatz, überwachtes Lernen (vgl. oben)
+- Ansatz: Trennung an Leerraum
+- im DWDS: statistischer Ansatz, **überwachtes Lernen** (vgl. oben)
 
 ---
 
 # NLP: Tokenisierung
 
-Problembereich Satz
+Problembereich *Satz*
 ```
 Nach einer Schätzung des Industrieministeriums sind es mehr als 800.
 ```
@@ -649,7 +650,7 @@ Nach einer Schätzung des Industrieministeriums sind es mehr als 800.
 »Österreich wurde alleingelassen in Europa«, beschwerte sich SPÖ-
 Zentralsekretär Josef Cap.
 ```
-Problembereich Token
+Problembereich *Token*
 ```
 Kaiser's-Netz → Kaiser 's-Netz
 Jeanne d'Arc → Jeanne d' Arc
@@ -657,6 +658,18 @@ mm. → mm. [ORD]
 CDU/CSU → CDU / CSU
 (Verwaltungs-)Personal → ( Verwaltungs- ) Personal
 ```
+
+---
+
+# NLP: PoS-Tagging
+
+- Auswahl der **wahrscheinlichsten Wortart** im konkreten Satzkontext aus der Menge der **möglichen** Wortarten eines
+Wortes
+- statistischer Ansatz, trainiert auf **manuell kategorisierten** Daten
+    + Modell über Trigramme aus Wörtern und Kategoriemengen (i.e. Wortklasse)
+    + Bestimmung der wahrscheinlichsten Kategoriesequenz fur einen Satz  ̈
+    + heuristische Auswahl der »einfachsten« **Grundform**
+    + angepasste Modelle fur historische Sprache, gesprochene Sprache, Kindersprache etc.
 
 ---
 
