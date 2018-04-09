@@ -322,11 +322,10 @@ count: false
 # NLP: morphologische Analyse
 
 - Zahlen
-    + *n* Lexikoneinträge
-    + *x* Vorsilben
-    + *y* Nachsilben
-    + *z* Regeln
-    + *i* Zustände
+    + 1&#x202f;864&#x202f;991 Lexikoneinträge
+    + 7&#x202f;678 Vorsilben
+    + 1&#x202f;073 Nachsilben
+    + 2&#x202f;679&#x202f;741 Zustände
 - klassischer **regelbasierter** Ansatz,
     + manuell gepflegte **Daten** als Operanden und
     + manuell erstellte **Regeln** zu deren Kombination
