@@ -361,7 +361,7 @@ count: false
         * eine **sehr große** Liste **manuell annotierter** Daten und
         * einen **Trainingsalgorithmus**,
     + modelliere eine **`n:n`-Beziehung** zwischen Eingabe und Ausgabe,
-        * jedes Eingabelement (Buchstabe) wird auf eine Klasse abgebildet
+        * jedes Eingabeelement (Buchstabe) wird auf eine Klasse abgebildet
     + induziere ein **statistisches Modell**,
     + und evaluiere dessen Qualität anhand von **Evaluationsdaten**
 - <span style="font-variant:small-caps;">Andrei Andrejewitsch Markov</span> (1856&ndash;1922)
@@ -371,12 +371,12 @@ count: false
 
 ---
 
-# NLP: Wortrennung
+# NLP: Worttrennung
 
 - Illustration
     + Daten
         * http://de.wiktionary.org
-        * Wortrennungsangaben für > 250 000 deutsche Wörter
+        * Worttrennungsangaben für > 250 000 deutsche Wörter
         * `Elektrik ↦ Elek·t·rik`
     + Kodierung `\(f: \Sigma\rightarrow\mathbb{B}\)` 
       $$
@@ -394,7 +394,7 @@ count: false
 
 ---
 
-# NLP: Wortrennung
+# NLP: Worttrennung
 
 - Zusammenhang zu Morphologie!
     ```
@@ -669,9 +669,9 @@ CDU/CSU → CDU / CSU
 Wortes
 - statistischer Ansatz, trainiert auf **manuell kategorisierten** Daten
     + Modell über Trigramme aus Wörtern und Kategoriemengen (i.e. Wortklasse)
-    + Bestimmung der wahrscheinlichsten Kategoriesequenz fur einen Satz
+    + Bestimmung der wahrscheinlichsten Kategoriesequenz für einen Satz
     + heuristische Auswahl der »einfachsten« **Grundform**
-    + angepasste Modelle fur historische Sprache, gesprochene Sprache, Kindersprache etc.
+    + angepasste Modelle für historische Sprache, gesprochene Sprache, Kindersprache etc.
 
 ---
 
@@ -747,7 +747,7 @@ count: false
 - mit automatischen Verfahren sehr schwer zu erfassen
 - distributionelle Ähnlichkeit: gleiche Kontexte ⇒ ähnliche Bedeutung
 - <span style="font-variant:small-caps;">John Rupert Firth</span> (1890&ndash;1960)
-    + »You shall know a word by the company it keeps« (Firth, J. R. 1957)
+    + »You shall know a word by the company it keeps« (1957)
     + `Er versenkte den .... im Tor.`
 
 ---
@@ -771,8 +771,8 @@ count: false
 # NLP: Distributionelle Semantik
 
 - Rezept:
-    + Man definiere einen **Kontext** und **interessante** Wörter (z.B. *Satz* sowie *Nomen* und *Verben*),
-    + werfe für jedes Zielwort alle interessanten Wörter aus dem Kontext in einen Topf (*Bag of Words*),
+    + Man definiere einen **Kontext** (z.&#x202f;B. Satz) und **interessante** Wörter,
+    + werfe für jedes Zielwort alle interessanten Wörter (z.&#x202f;B. *Nomen* und *Verben*) aus dem Kontext in einen Topf (*Bag of Words*),
     + repräsentiere den Topf als **hochdimensionalen Vektorraum** und
     + vergleiche die Vektoren miteinander.
 - Illustration:
